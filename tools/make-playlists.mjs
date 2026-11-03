@@ -41,14 +41,18 @@ const scenes = {
     ["Nirvana", "Smells Like Teen Spirit", "Nevermind", 1991],
     ["Alice in Chains", "Would?", "Dirt", 1992],
     ["Screaming Trees", "Nearly Lost You", "Sweet Oblivion", 1992],
+    ["Stone Temple Pilots", "Plush", "Core", 1992],
     ["Melvins", "Honey Bucket", "Houdini", 1993],
     ["Nirvana", "Heart-Shaped Box", "In Utero", 1993],
     ["Soundgarden", "Black Hole Sun", "Superunknown", 1994],
+    ["Stone Temple Pilots", "Interstate Love Song", "Purple", 1994],
     ["Alice in Chains", "Nutshell", "Jar of Flies", 1994],
     ["Mad Season", "River of Deceit", "Above", 1995],
     ["Foo Fighters", "This Is a Call", "Foo Fighters", 1995],
     ["Foo Fighters", "Everlong", "The Colour and the Shape", 1997],
     ["Foo Fighters", "My Hero", "The Colour and the Shape", 1997],
+    ["Queens of the Stone Age", "No One Knows", "Songs for the Deaf", 2002],
+    ["Queens of the Stone Age", "Go with the Flow", "Songs for the Deaf", 2002],
   ]],
   "swedish-metal": ["Swedish Metal", "Stockholm, Gothenburg, the progressive line, then Meshuggah's descendants.", [
     ["Entombed", "Left Hand Path", "Left Hand Path", 1990],
@@ -65,6 +69,28 @@ const scenes = {
     ["Meshuggah", "Bleed", "obZen", 2008],
     ["Vildhjarta", null, "Måsstaden", 2011],
     ["Humanity's Last Breath", null, "Välde", 2021],
+    ["Amon Amarth", "Twilight of the Thunder God", "Twilight of the Thunder God", 2008],
+    ["Arch Enemy", "Nemesis", "Doomsday Machine", 2005],
+    ["Arch Enemy", "War Eternal", "War Eternal", 2014],
+    ["Ghost", "Cirice", "Meliora", 2015],
+    ["Ghost", "Square Hammer", "Popestar (EP)", 2016],
+  ]],
+  "djent-thall": ["Djent & Thall", "From Meshuggah's chug to Sleep Token's charts.", [
+    ["Meshuggah", "Bleed", "obZen", 2008],
+    ["Gojira", "Flying Whales", "From Mars to Sirius", 2005],
+    ["Animals as Leaders", "CAFO", "Animals as Leaders", 2009],
+    ["Periphery", "Icarus Lives!", "Periphery", 2010],
+    ["Vildhjarta", null, "Måsstaden", 2011],
+    ["TesseracT", null, "One", 2011],
+    ["Periphery", "Scarlet", "Periphery II: This Time It's Personal", 2012],
+    ["TesseracT", "Nocturne", "Altered State", 2013, true],
+    ["Animals as Leaders", "Physical Education", "The Joy of Motion", 2014],
+    ["Gojira", "Stranded", "Magma", 2016],
+    ["Spiritbox", "Holy Roller", "Eternal Blue", 2021],
+    ["Spiritbox", "Circle with Me", "Eternal Blue", 2021],
+    ["Humanity's Last Breath", null, "Välde", 2021],
+    ["Sleep Token", "The Summoning", "Take Me Back to Eden", 2023],
+    ["Sleep Token", "Alkaline", "Take Me Back to Eden", 2023],
     ["Mirar", "Rose Bonbon", "Mare (EP)", 2024],
     ["Mirar", "Cauchemar", "Mare (EP)", 2024],
     ["Mirar", null, "Ascension", 2025],
@@ -73,6 +99,8 @@ const scenes = {
     ["Germs", "Lexicon Devil", "Lexicon Devil (EP)", 1978],
     ["Black Flag", "Nervous Breakdown", "Nervous Breakdown (EP)", 1978],
     ["X", "Los Angeles", "Los Angeles", 1980],
+    ["Dead Kennedys", "California Über Alles", "Fresh Fruit for Rotting Vegetables", 1980],
+    ["Dead Kennedys", "Holiday in Cambodia", "Fresh Fruit for Rotting Vegetables", 1980],
     ["Black Flag", "Rise Above", "Damaged", 1981],
     ["Circle Jerks", "Wild in the Streets", "Wild in the Streets", 1982],
     ["Descendents", "Suburban Home", "Milo Goes to College", 1982],
@@ -92,20 +120,29 @@ const scenes = {
     ["Rancid", "Time Bomb", "...And Out Come the Wolves", 1995],
     ["Rancid", "Ruby Soho", "...And Out Come the Wolves", 1995],
     ["Descendents", "I'm the One", "Everything Sucks", 1996],
+    ["Sublime", "What I Got", "Sublime", 1996],
+    ["Sublime", "Santeria", "Sublime", 1996],
     ["Green Day", "Good Riddance (Time of Your Life)", "Nimrod", 1997],
     ["Blink-182", "Dammit", "Dude Ranch", 1997],
     ["The Offspring", "The Kids Aren't Alright", "Americana", 1998],
     ["Blink-182", "All the Small Things", "Enema of the State", 1999],
     ["NOFX", "The Decline", "The Decline (EP)", 1999],
+    ["AFI", "Girl's Not Grey", "Sing the Sorrow", 2003],
+    ["The Distillers", "Drain the Blood", "Coral Fang", 2003],
     ["Green Day", "American Idiot", "American Idiot", 2004],
+    ["AFI", "Miss Murder", "Decemberunderground", 2006],
     ["The Offspring", "You're Gonna Go Far, Kid", "Rise and Fall, Rage and Grace", 2008],
   ]],
   "west-coast": ["West Coast Death Metal", "From the Bay Area's proto-death to Vancouver's hyper-speed.", [
     ["Possessed", "The Exorcist", "Seven Churches", 1985],
     ["Possessed", "Death Metal", "Seven Churches", 1985],
+    ["Slayer", "Angel of Death", "Reign in Blood", 1986],
+    ["Slayer", "Raining Blood", "Reign in Blood", 1986],
     ["Dark Angel", "Darkness Descends", "Darkness Descends", 1986],
     ["Autopsy", null, "Mental Funeral", 1991],
     ["Strapping Young Lad", "All Hail the New Flesh", "City", 1997],
+    ["Deftones", "Change (In the House of Flies)", "White Pony", 2000],
+    ["Deftones", "Digital Bath", "White Pony", 2000],
     ["Strapping Young Lad", "Love?", "Alien", 2005],
     ["The Faceless", "Xenochrist", "Planetary Duality", 2008],
     ["The Faceless", "Coldly Calculated Design", "Planetary Duality", 2008, true],
@@ -132,6 +169,7 @@ const scenes = {
     ["Suffocation", "Pierced from Within", "Pierced from Within", 1995],
     ["Dying Fetus", "Grotesque Impalement", "Destroy the Opposition", 2000, true],
     ["Immolation", null, "Close to a World Below", 2000],
+    ["Nile", "Lashed to the Slave Stick", "Annihilation of the Wicked", 2005, true],
     ["Revocation", "Deathless", "Deathless", 2014],
     ["Revocation", "The Outer Ones", "The Outer Ones", 2018],
   ]],
@@ -141,6 +179,7 @@ const scenes = {
     ["Devourment", "Babykiller", "Molesting the Decapitated", 1999],
     ["Dying Fetus", "Kill Your Mother, Rape Your Dog", "Destroy the Opposition", 2000, true],
     ["Aborted", "The Saw and the Carnage Done", "Goremageddon", 2003],
+    ["Bring Me the Horizon", "Pray for Plagues", "Count Your Blessings", 2006],
     ["Despised Icon", "Furtive Monologue", "The Ills of Modern Man", 2007],
     ["Whitechapel", "This Is Exile", "This Is Exile", 2008],
     ["Thy Art Is Murder", "Reign of Darkness", "Hate", 2012],
@@ -150,19 +189,26 @@ const scenes = {
     ["Aborted", "Retrogore", "Retrogore", 2016],
     ["Infant Annihilator", "Three Bastards", "The Elysian Grandeval Galèriarch", 2016, true],
     ["Infant Annihilator", null, "The Battle of Yaldabaoth", 2019],
+    ["Bring Me the Horizon", "Shadow Moses", "Sempiternal", 2013],
     ["Lorna Shore", "To the Hellfire", "...And I Return to Nothingness (EP)", 2021],
+    ["Lorna Shore", "Pain Remains I: Dancing Like Flames", "Pain Remains", 2022, true],
     ["Organectomy", null, "(any release, verify)", null, true],
   ]],
   "post-metal": ["Post-Metal", "Long songs. Play loud, in order, without shuffle.", [
     ["Neurosis", "Locust Star", "Through Silver in Blood", 1996],
     ["Neurosis", "Through Silver in Blood", "Through Silver in Blood", 1996],
+    ["Tool", "Schism", "Lateralus", 2001],
+    ["Tool", "Lateralus", "Lateralus", 2001],
     ["Isis", "Weight", "Oceanic", 2002],
     ["Isis", "Carry", "Oceanic", 2002],
     ["Isis", "In Fiction", "Panopticon", 2004],
+    ["Mastodon", "Blood and Thunder", "Leviathan", 2004],
+    ["Mastodon", "Oblivion", "Crack the Skye", 2009],
     ["Cult of Luna", null, "Somewhere Along the Highway", 2006],
     ["Cult of Luna", "Ghost Trail", "Eternal Kingdom", 2008, true],
     ["Russian Circles", "Harper Lewis", "Station", 2008],
     ["Cult of Luna", "I: The Weapon", "Vertikal", 2013],
+    ["Deafheaven", "Dream House", "Sunbather", 2013],
     ["The Ocean", "Bathyalpelagic I: Impasses", "Pelagial", 2013, true],
     ["The Ocean", "Benthic: The Origin of Our Wishes", "Pelagial", 2013, true],
     ["Cult of Luna & Julie Christmas", "A Greater Call", "Mariner", 2016, true],
@@ -180,6 +226,10 @@ const scenes = {
     ["Candlemass", "Solitude", "Epicus Doomicus Metallicus", 1986],
     ["Candlemass", "Bewitched", "Nightfall", 1987],
     ["Sleep", "Dragonaut", "Holy Mountain", 1992],
+    ["Kyuss", "Green Machine", "Blues for the Red Sun", 1992],
+    ["Type O Negative", "Black No. 1", "Bloody Kisses", 1993],
+    ["Kyuss", "Gardenia", "Welcome to Sky Valley", 1994],
+    ["Type O Negative", "Love You to Death", "October Rust", 1996],
     ["Cathedral", "Hopkins (The Witchfinder General)", "The Carnival Bizarre", 1995],
     ["Electric Wizard", "Funeralopolis", "Dopethrone", 2000],
     ["Witchcraft", "No Angel or Demon", "Witchcraft", 2004],
@@ -192,17 +242,24 @@ const scenes = {
     ["The Gun Club", "Sex Beat", "Fire of Love", 1981],
     ["The Gun Club", "She's Like Heroin to Me", "Fire of Love", 1981],
     ["The Birthday Party", "Release the Bats", "single", 1981, true],
+    ["The Pogues", "A Pair of Brown Eyes", "Rum Sodomy & the Lash", 1985],
+    ["Tom Waits", "Jockey Full of Bourbon", "Rain Dogs", 1985],
+    ["Tom Waits", "Way Down in the Hole", "Franks Wild Years", 1987],
     ["Nick Cave & the Bad Seeds", "The Mercy Seat", "Tender Prey", 1988],
+    ["The Pogues", "Fairytale of New York", "If I Should Fall from Grace with God", 1988],
     ["Nick Cave & the Bad Seeds", "Red Right Hand", "Let Love In", 1994],
     ["Johnny Cash", "Delia's Gone", "American Recordings", 1994],
     ["16 Horsepower", "Black Soul Choir", "Sackcloth 'n' Ashes", 1996],
     ["16 Horsepower", "Haw", "Sackcloth 'n' Ashes", 1996],
     ["Nick Cave & the Bad Seeds", "Where the Wild Roses Grow", "Murder Ballads", 1996],
+    ["Tom Waits", "Hold On", "Mule Variations", 1999],
     ["16 Horsepower", "Clogger", "Secret South", 2000, true],
     ["Wovenhand", null, "Consider the Birds", 2004],
     ["The Drones", "Shark Fin Blues", "Wait Long by the River and the Bodies of Your Enemies Will Float By", 2005],
     ["The Drones", "Sixteen Straws", "Wait Long by the River and the Bodies of Your Enemies Will Float By", 2005, true],
     ["The Drones", "I See Seaweed", "I See Seaweed", 2013],
+    ["Hozier", "Take Me to Church", "Hozier", 2014],
+    ["Hozier", "Work Song", "Hozier", 2014],
     ["Wovenhand", null, "Refractory Obdurate", 2014],
     ["Chelsea Wolfe", "16 Psyche", "Hiss Spun", 2017],
     ["Emma Ruth Rundle", "Darkhorse", "On Dark Horses", 2018],
@@ -216,7 +273,7 @@ const enc = (s) => encodeURIComponent(s);
 for (const [folder, [title, intro, tracks]] of Object.entries(scenes)) {
   const rows = tracks.map(([a, t, al, y, v], i) => {
     const q = t ? `${a} ${t}` : `${a} ${al.replace(/\s*\(.*\)$/, "")}`;
-    const links = `[Spotify](https://open.spotify.com/search/${enc(q)}) · [YouTube](https://www.youtube.com/results?search_query=${enc(q)})`;
+    const links = `[Spotify](https://open.spotify.com/search/${enc(q)}) · [YouTube](https://www.youtube.com/results?search_query=${enc(q)}) · [YT Music](https://music.youtube.com/search?q=${enc(q)})`;
     const track = t ? t : "*whole album / any track*";
     const album = `*${al}*${y ? ` (${y})` : ""}`;
     return `| ${i + 1} | ${a} | ${track}${v ? " **(verify)**" : ""} | ${album} | ${links} |`;
@@ -228,7 +285,7 @@ for (const [folder, [title, intro, tracks]] of Object.entries(scenes)) {
 
 ${intro}
 
-Links open a Spotify or YouTube search for that track. **(verify)** means the track title or
+Links open a Spotify, YouTube or YouTube Music search for that track. **(verify)** means the track title or
 album hasn't been confirmed; check it in the search results. Rows marked *whole album* are
 records best heard in full, or where no single track has been picked yet.
 
@@ -237,8 +294,9 @@ records best heard in full, or where no single track has been picked yet.
 ${rows.join("\n")}
 
 ## Plain list for importing
-Paste this into an import tool (e.g. TuneMyMusic or Soundiiz) to build a Spotify, Apple Music
-or YouTube Music playlist in one go. Whole-album rows are left out.
+Paste this into an import tool (e.g. TuneMyMusic or Soundiiz) to build a YouTube Music, Spotify
+or Apple Music playlist in one go. In TuneMyMusic, choose "Free text" as the source and YouTube
+Music as the destination. Whole-album rows are left out.
 
 \`\`\`text
 ${plain.join("\n")}

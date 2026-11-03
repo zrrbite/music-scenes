@@ -35,5 +35,5 @@
 | 2009 | [Humanity's Last Breath](bands/humanitys-last-breath.md) formed **(verify)** |
 | 2011 | Vildhjarta's *Måsstaden* (the start of "thall"). Opeth's *Heritage* drops growls |
 | 2021 | *Måsstaden under vatten* and *Välde* |
-| 2024 | Opeth's *The Last Will and Testament* brings growls back. [Mirar](bands/mirar.md)'s *Mare* EP |
+| 2024 | Opeth's *The Last Will and Testament* brings growls back. [Mirar](../djent-thall/bands/mirar.md)'s *Mare* EP |
 | 2025 | Mirar's *Ascension* |

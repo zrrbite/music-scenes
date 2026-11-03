@@ -8,7 +8,7 @@ North America.
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
-- [Playlist](playlist.md): tracks in listening order, with Spotify/YouTube links
+- [Playlist](playlist.md): tracks in listening order, with Spotify / YouTube / YouTube Music links
 - [Connections](connections.md): family-tree diagram and shared members
 - [Sources](sources.md): references and accuracy notes
 - Band pages:
@@ -24,6 +24,9 @@ North America.
 | [Rings of Saturn](bands/rings-of-saturn.md) | San Francisco Bay Area | 2009 | Technical deathcore ("aliencore") | *Lugal Ki En* (2014) |
 | [Archspire](bands/archspire.md) | Vancouver | 2009 | Hyper-technical death metal | *Bleed the Future* (2021) |
 | [Cattle Decapitation](../brutal-death/bands/cattle-decapitation.md) | San Diego | 1996 | Progressive deathgrind (page under Brutal death) | *Monolith of Inhumanity* (2012) |
+| [Slayer](bands/slayer.md) | Huntington Park (LA) | 1981 | Thrash, death metal's direct ancestor | *Reign in Blood* (1986) |
+| [Deftones](bands/deftones.md) | Sacramento | 1988 | Atmospheric alt-metal | *White Pony* (2000) |
+| [Spiritbox](../djent-thall/bands/spiritbox.md) | Victoria, BC | 2017 | Djent / metalcore (page under Djent & thall) | *Eternal Blue* (2021) |
 | [Zenith Passage](bands/zenith-passage.md) | Los Angeles area **(verify)** | 2011 | Technical / progressive death | *Solipsist* (2016) |
 
 ## History

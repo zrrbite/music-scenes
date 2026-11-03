@@ -29,8 +29,17 @@ flowchart TD
         MESH["Meshuggah<br/>1987"]
         VH["Vildhjarta<br/>2005"]
         HLB["Humanity's Last Breath<br/>2009"]
-        MIR["Mirar<br/>France / Norway"]
+        MIR(["Mirar<br/>see Djent & thall"])
     end
+    subgraph BIG["Arena-sized"]
+        GHOST["Ghost<br/>2006, Linköping"]
+        ARCH["Arch Enemy<br/>1995, Halmstad"]
+        AA["Amon Amarth<br/>1992, Tumba"]
+    end
+    CARC(["Carcass<br/>UK"])
+    AGON(["The Agonist<br/>Montreal"])
+    SPB(["Spiritual Beggars"])
+    RA(["Rise Above Records<br/>see Doom"])
 
     NIH -- "renamed 1989" --> ENT
     SUN -.-> ENT
@@ -49,13 +58,19 @@ flowchart TD
     MESH -. "low-end weight" .-> HLB
     VH -. "thall" .-> MIR
     HLB -. "Buster Odeholm, production (verify)" .- MIR
+    CARC -- "Michael Amott" --> ARCH
+    AGON -- "Alissa White-Gluz" --> ARCH
+    ARCH -- "Michael Amott" --- SPB
+    ATG -. "Gothenburg melody" .-> ARCH
+    ENT -. "Stockholm death metal" .-> AA
+    RA -. "debut, 2010" .-> GHOST
 ```
 
 ## Buster Odeholm
 - [Humanity's Last Breath](bands/humanitys-last-breath.md): founder, guitar, production
 - [Vildhjarta](bands/vildhjarta.md): member and producer **(verify exact role and years)**
 - The main link between the two leading thall bands
-- [Mirar](bands/mirar.md): reportedly involved in mixing/mastering **(verify)**
+- [Mirar](../djent-thall/bands/mirar.md): reportedly involved in mixing/mastering **(verify)**
 
 ## Mikael Stanne
 - [Dark Tranquillity](bands/dark-tranquillity.md): vocals (originally rhythm guitar)

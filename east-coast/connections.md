@@ -25,9 +25,12 @@ flowchart TD
         IMM["Immolation<br/>1986"]
         DF["Dying Fetus<br/>1991"]
         MI(["Misery Index"])
+        TON(["Type O Negative<br/>Brooklyn, see Doom"])
+        CARN(["Carnivore"])
     end
     subgraph MOD["Modern"]
         REV["Revocation<br/>2006"]
+        NILE["Nile<br/>1993, South Carolina"]
     end
     WC(["West Coast<br/>Autopsy, Dark Angel"])
     QC(["Quebec tech-death"])
@@ -52,6 +55,9 @@ flowchart TD
     IMM -. "dissonance" .- QC
     SUF -. "slams, breakdowns" .-> BD
     DF -. "groove" .-> BD
+    CARN -- "Peter Steele" --> TON
+    MA -. "speed, occult" .-> NILE
+    NILE -. "Middle Eastern melody" .- QC
 ```
 
 ## Chuck Schuldiner

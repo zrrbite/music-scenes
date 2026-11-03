@@ -8,7 +8,7 @@ often just one more texture.
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
-- [Playlist](playlist.md): tracks to start with
+- [Playlist](playlist.md): tracks in listening order, with Spotify / YouTube / YouTube Music links
 - [Connections](connections.md): family-tree diagram and shared members
 - [Sources](sources.md): references and accuracy notes
 - Band pages:
@@ -21,6 +21,9 @@ often just one more texture.
 | [The Ocean](bands/the-ocean.md) | Berlin, Germany | 2000 | Progressive post-metal, concept albums | *Pelagial* (2013) |
 | [Amenra](bands/amenra.md) | Kortrijk, Belgium | 1999 | Ritualistic sludge / post-metal | *Mass VI* (2017) |
 | [Russian Circles](bands/russian-circles.md) | Chicago | 2004 | Instrumental post-metal | *Station* (2008) |
+| [Mastodon](bands/mastodon.md) | Atlanta | 2000 | Sludge → progressive metal | *Crack the Skye* (2009) |
+| [Tool](bands/tool.md) | Los Angeles | 1990 | Progressive alt-metal | *Lateralus* (2001) |
+| [Deafheaven](bands/deafheaven.md) | San Francisco | 2010 | Blackgaze (black metal + shoegaze) | *Sunbather* (2013) |
 
 ## History
 

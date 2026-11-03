@@ -26,6 +26,11 @@ flowchart TD
     SCREAM[Scream<br/>DC hardcore]
     SDRE[Sunny Day Real Estate<br/>Seattle emo]
     GERMS[Germs<br/>LA punk]
+    KYUSS[Kyuss<br/>Palm Desert]
+    QOTSA[Queens of the Stone Age<br/>1996]
+    TCV[Them Crooked Vultures<br/>2009]
+    STP[Stone Temple Pilots<br/>1989, San Diego]
+    VR[Velvet Revolver<br/>2002]
 
     GR -- "Mark Arm, Steve Turner" --> MH
     MELV -- "Matt Lukin" --> MH
@@ -42,6 +47,12 @@ flowchart TD
     GERMS -- "Pat Smear (touring)" --> NIR
     NIR -- "Pat Smear" --> FF
     SDRE -- "Nate Mendel, William Goldsmith" --> FF
+    KYUSS -- "Josh Homme, Nick Oliveri" --> QOTSA
+    ST -- "Mark Lanegan" --> QOTSA
+    NIR -- "Dave Grohl (Songs for the Deaf)" --> QOTSA
+    QOTSA -- "Josh Homme" --> TCV
+    FF -- "Dave Grohl" --> TCV
+    STP -- "Scott Weiland" --> VR
     SG -- "Chris Cornell" --> AS
     AIC -- "Layne Staley" --> MS
     PJ -- "Mike McCready" --> MS

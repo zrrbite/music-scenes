@@ -28,6 +28,15 @@ flowchart TD
         NOR(["Norrsken"])
         WC["Witchcraft<br/>2000"]
         GY["Graveyard<br/>2006"]
+        GHOST(["Ghost<br/>see Swedish metal"])
+    end
+    subgraph US2["US: desert, gothic, sludge"]
+        KYUSS["Kyuss<br/>1987"]
+        QOTSA(["Queens of the Stone Age<br/>see Seattle grunge"])
+        TON["Type O Negative<br/>1989"]
+        CARN(["Carnivore"])
+        MAST(["Mastodon<br/>see Post-metal"])
+        NEU(["Neurosis<br/>see Post-metal"])
     end
 
     BS -.-> PEN
@@ -47,6 +56,13 @@ flowchart TD
     NOR -- "Joakim Nilsson, Rikard Edlund" --> GY
     PEN -. "the template" .-> WC
     WC -. "same circle" .- GY
+    RA -. "debut" .-> GHOST
+    BS -. "desert haze" .-> KYUSS
+    KYUSS -- "Josh Homme" --> QOTSA
+    BS -. "slow riffs" .-> TON
+    CARN -- "Peter Steele" --> TON
+    NEU -- "Scott Kelly (guest)" --- MAST
+    SLP -. "riff worship" .- MAST
 ```
 
 ## Norrsken → Witchcraft and Graveyard

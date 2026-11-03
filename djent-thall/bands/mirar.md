@@ -16,10 +16,11 @@ Their production has reportedly involved **Buster Odeholm** (Humanity's Last Bre
 Vildhjarta) for mixing or mastering **(verify which releases)**. That's what places them in the
 Swedish thall lineage even though neither member is Swedish.
 
-## Why it's in this section
-Mirar isn't Swedish, but their sound descends from the Meshuggah → Vildhjarta → Humanity's Last
-Breath line, and they share a producer with it. If a "djent & thall" scene ever gets its own
-folder, Mirar should move there.
+## Where they fit
+Mirar sits at the newest end of the djent → thall line: Meshuggah's rhythmic ideas, Vildhjarta's
+dissonant atmosphere, and a production link to Humanity's Last Breath, combined with electronic
+music and Baroque counterpoint. They're French like [Gojira](gojira.md), but they come from the
+Swedish thall branch rather than the French death metal one.
 
 ## Discography
 | Year | Release | Type | Notes |
@@ -37,4 +38,4 @@ folder, Mirar should move there.
 - Members, background, style, *Ascension*, *Gradus ad Parnassum*: the user's notes
 - Singles and the other *Ascension* tracks: Metal Music Archives and Last.fm, via search summaries
 
-[← Back to Swedish metal](../README.md)
+[← Back to Djent & thall](../README.md)

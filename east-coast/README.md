@@ -8,7 +8,7 @@ technical bands that grew out of both, up to Boston's Revocation.
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
-- [Playlist](playlist.md): tracks to start with
+- [Playlist](playlist.md): tracks in listening order, with Spotify / YouTube / YouTube Music links
 - [Connections](connections.md): family-tree diagram and shared members
 - [Sources](sources.md): references and accuracy notes
 - Band pages:
@@ -23,6 +23,8 @@ technical bands that grew out of both, up to Boston's Revocation.
 | [Immolation](bands/immolation.md) | Yonkers, NY | 1986 | Dark, dissonant death metal | *Close to a World Below* (2000) |
 | [Dying Fetus](bands/dying-fetus.md) | Upper Marlboro, Maryland | 1991 | Brutal death / grind with groove | *Destroy the Opposition* (2000) |
 | [Revocation](bands/revocation.md) | Boston | 2006 | Technical death / thrash | *Deathless* (2014) |
+| [Nile](bands/nile.md) | Greenville, South Carolina | 1993 | Technical brutal death, Egyptian themes | *Annihilation of the Wicked* (2005) |
+| [Type O Negative](../doom/bands/type-o-negative.md) | Brooklyn, NY | 1989 | Gothic doom (page under Doom) | *October Rust* (1996) |
 
 ## History
 

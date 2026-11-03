@@ -9,7 +9,7 @@ wave, and the modern progressive / tech-death bands coming out of Montreal and e
 
 - [Scene overview](scene-overview.md): how the scene developed, era by era
 - [Listening guide](listening-guide.md): where to start, grouped by taste
-- [Playlist](playlist.md): tracks in listening order, with Spotify/YouTube links
+- [Playlist](playlist.md): tracks in listening order, with Spotify / YouTube / YouTube Music links
 - [Connections](connections.md): family-tree diagram, shared members and side projects
 - [Sources](sources.md): links collected so far, plus accuracy notes
 - Band pages:

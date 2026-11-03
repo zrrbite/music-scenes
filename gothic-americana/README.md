@@ -9,7 +9,7 @@ the Australian gothic line (The Drones), and the Old World ballad roots (Lankum)
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
-- [Playlist](playlist.md): tracks in listening order, with Spotify/YouTube links
+- [Playlist](playlist.md): tracks in listening order, with Spotify / YouTube / YouTube Music links
 - [Connections](connections.md): family-tree diagram, shared members and lineage
 - [Sources](sources.md): references and accuracy notes
 - Artist pages:
@@ -25,6 +25,9 @@ the Australian gothic line (The Drones), and the Old World ballad roots (Lankum)
 | [David Eugene Edwards (solo)](bands/david-eugene-edwards.md) | Denver | 2023–now | Solo gothic folk / drone | *Hyacinth* (2023) |
 | [The Drones](bands/the-drones.md) | Perth / Melbourne | 1997–2016 | Australian gothic blues-punk | *Wait Long by the River…* (2005) |
 | [Lankum](bands/lankum.md) | Dublin | 2000–now | Dark, droning Irish traditional folk | *False Lankum* (2023) |
+| [The Pogues](bands/the-pogues.md) | London (Irish diaspora) | 1982–2014 | Irish trad + punk | *Rum Sodomy & the Lash* (1985) |
+| [Tom Waits](bands/tom-waits.md) | California | 1971–now | Dark American storytelling, junkyard blues | *Rain Dogs* (1985) |
+| [Hozier](bands/hozier.md) | Bray, Ireland | 2013–now | Gothic folk-soul | *Hozier* (2014) |
 
 ## History
 

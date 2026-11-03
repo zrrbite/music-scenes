@@ -30,6 +30,15 @@ flowchart TD
         JC(["Julie Christmas"])
     end
     MESH(["Meshuggah<br/>also Umeå"])
+    subgraph REL["Progressive & blackgaze relatives"]
+        MAST["Mastodon<br/>2000"]
+        TOOL["Tool<br/>1990"]
+        DHV["Deafheaven<br/>2010"]
+        ALC(["Alcest<br/>France"])
+        DW(["Deathwish Inc."])
+        PALMS(["Palms<br/>with Chino Moreno, Deftones"])
+    end
+    WOV(["Wovenhand<br/>see Dark folk"])
 
     MELV -. "slowness" .-> NEU
     SWANS -. "repetition" .-> NEU
@@ -47,6 +56,12 @@ flowchart TD
     COL -- "Mariner, 2016" --- JC
     MESH -. "same town" .- COL
     NEU -. "Neurot" .- AMEN
+    NEU -- "Scott Kelly (guest vocals)" --- MAST
+    ISIS -. "toured together (verify)" .- TOOL
+    ISIS -- "Caxide, Harris, Meyer" --> PALMS
+    ALC -. "blackgaze" .-> DHV
+    DW -.-> DHV
+    DW -. "Refractory Obdurate" .-> WOV
 ```
 
 ## Aaron Turner

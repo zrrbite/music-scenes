@@ -37,6 +37,18 @@ flowchart TD
         B182["Blink-182<br/>1992"]
         AQ(["The Aquabats"])
     end
+    subgraph SF["San Francisco"]
+        DK["Dead Kennedys<br/>1978"]
+        AT(["Alternative Tentacles"])
+    end
+    subgraph MORE["Long Beach, Ukiah, LA"]
+        SUB["Sublime<br/>1988"]
+        NITRO(["Nitro Records"])
+        AFI["AFI<br/>1991"]
+        DIST["The Distillers<br/>1998"]
+    end
+    SCAC(["Slim Cessna's Auto Club<br/>see Dark folk"])
+    QOTSA(["Queens of the Stone Age<br/>see Seattle grunge"])
     NIR(["Nirvana / Foo Fighters<br/>see Seattle grunge"])
     CASH(["Johnny Cash"])
 
@@ -62,6 +74,14 @@ flowchart TD
     DESC -. "pop-punk template" .-> B182
     AQ -- "Travis Barker" --> B182
     CASH -. "country roots" .-> SD
+    DK -- "Jello Biafra" --> AT
+    AT -.-> SCAC
+    OFF -- "Dexter Holland, Greg K." --> NITRO
+    NITRO -.-> AFI
+    HELL -.-> DIST
+    RAN -. "Tim Armstrong, married to Brody Dalle" .- DIST
+    DIST -. "Brody Dalle, married to Josh Homme" .- QOTSA
+    OPIVY -. "ska-punk" .-> SUB
 ```
 
 ## Brett Gurewitz

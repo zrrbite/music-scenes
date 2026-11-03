@@ -8,7 +8,7 @@ deathcore and goregrind of today.
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
-- [Playlist](playlist.md): tracks to start with
+- [Playlist](playlist.md): tracks in listening order, with Spotify / YouTube / YouTube Music links
 - [Connections](connections.md): family-tree diagram and lineage
 - [Sources](sources.md): references and accuracy notes
 - Band pages (the roots are on other scene pages):
@@ -22,6 +22,8 @@ deathcore and goregrind of today.
 | [Cattle Decapitation](bands/cattle-decapitation.md) | San Diego | 1996 | Goregrind → progressive deathgrind | *Monolith of Inhumanity* (2012) |
 | [Despised Icon](../quebec/bands/despised-icon.md) | Montreal | 2002 | Deathcore pioneers | *The Ills of Modern Man* (2007) |
 | [Infant Annihilator](bands/infant-annihilator.md) | Hull, England | 2012 | Technical deathcore | *The Elysian Grandeval Galèriarch* (2016) |
+| [Bring Me the Horizon](bands/bring-me-the-horizon.md) | Sheffield, England | 2004 | Deathcore → arena rock | *Count Your Blessings* (2006) / *Sempiternal* (2013) |
+| [Lorna Shore](bands/lorna-shore.md) | New Jersey | 2010 | Symphonic, blackened deathcore | *Pain Remains* (2022) |
 | [Organectomy](bands/organectomy.md) | New Zealand **(verify city)** | **(verify)** | Slam / brutal death | **(verify)** |
 
 ## History

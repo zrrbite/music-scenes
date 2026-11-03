@@ -8,7 +8,7 @@ the top of the charts.
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
-- [Playlist](playlist.md): tracks in listening order, with Spotify/YouTube links
+- [Playlist](playlist.md): tracks in listening order, with Spotify / YouTube / YouTube Music links
 - [Connections](connections.md): family-tree diagram, labels and shared members
 - [Sources](sources.md): references and accuracy notes
 - Band pages:
@@ -24,6 +24,10 @@ the top of the charts.
 | [Pennywise](bands/pennywise.md) | Hermosa Beach (LA) | 1988 | Skate punk / melodic hardcore | *About Time* (1995) |
 | [Rancid](bands/rancid.md) | Berkeley | 1991 | Punk / ska-punk / street punk | *...And Out Come the Wolves* (1995) |
 | [Blink-182](bands/blink-182.md) | Poway (San Diego) | 1992 | Pop-punk | *Enema of the State* (1999) |
+| [Dead Kennedys](bands/dead-kennedys.md) | San Francisco | 1978 | Political hardcore punk | *Fresh Fruit for Rotting Vegetables* (1980) |
+| [Sublime](bands/sublime.md) | Long Beach | 1988 | Ska-punk / reggae / dub | *Sublime* (1996) |
+| [AFI](bands/afi.md) | Ukiah | 1991 | Hardcore → gothic punk / alt-rock | *Sing the Sorrow* (2003) |
+| [The Distillers](bands/the-distillers.md) | Los Angeles | 1998 | Punk rock | *Sing Sing Death House* (2002) |
 
 ## History
 

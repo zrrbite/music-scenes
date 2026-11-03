@@ -14,6 +14,8 @@ flowchart TD
         BP(["The Birthday Party<br/>1980"])
         NC["Nick Cave & the Bad Seeds<br/>1983"]
         CASH(["Johnny Cash<br/>American Recordings"])
+        WAITS["Tom Waits<br/>1971"]
+        ANTI(["Anti- / Epitaph"])
     end
     subgraph DEN["Denver"]
         DG["The Denver Gentlemen"]
@@ -31,6 +33,9 @@ flowchart TD
         BAL(["Irish, Scottish & English ballads"])
         LYN(["Lynched<br/>2000"])
         LANK["Lankum<br/>2016"]
+        POG["The Pogues<br/>1982"]
+        HOZ["Hozier<br/>2013"]
+        CLASH(["The Clash<br/>Joe Strummer"])
     end
     subgraph HEAVY["Heavier relatives"]
         SH(["Sargent House<br/>label"])
@@ -60,6 +65,13 @@ flowchart TD
     BAL -.-> LYN
     LYN -- "renamed 2016" --> LANK
     NC -. "murder ballads" .- LANK
+    BAL -.-> POG
+    POG -. "trad + punk" .- LANK
+    NC -- "duet with Shane MacGowan, 1992" --- POG
+    CLASH -- "Joe Strummer (1991 tour)" --- POG
+    HOZ -. "Irish gothic folk" .- LANK
+    WAITS -. "kindred storytelling" .- NC
+    WAITS -. "Mule Variations" .-> ANTI
 ```
 
 ## David Eugene Edwards

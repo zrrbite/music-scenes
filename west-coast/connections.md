@@ -12,6 +12,7 @@ flowchart TD
         POS["Possessed<br/>1983"]
         DA["Dark Angel<br/>1981"]
         AUT["Autopsy<br/>1987"]
+        SLAY["Slayer<br/>1981"]
     end
     DEATH(["Death<br/>Florida"])
     PRI(["Primus"])
@@ -19,6 +20,7 @@ flowchart TD
         BLAS["Blasphemy<br/>1984"]
         SYL["Strapping Young Lad<br/>1994"]
         ARCH["Archspire<br/>2009"]
+        SB(["Spiritbox<br/>Victoria, see Djent & thall"])
     end
     subgraph CAL["California tech-death, 2000s–"]
         DB["Decrepit Birth<br/>2001"]
@@ -28,6 +30,10 @@ flowchart TD
         ZP["Zenith Passage<br/>2011"]
     end
     QC(["Quebec tech-death<br/>Beyond Creation, First Fragment"])
+    subgraph SAC["Sacramento"]
+        DEF["Deftones<br/>1988"]
+        PALMS(["Palms<br/>with ex-Isis members"])
+    end
 
     THR -.-> POS
     POS -. "named the genre" .-> DEATH
@@ -42,6 +48,11 @@ flowchart TD
     ARCH -. "touring circuit, labels" .- QC
     ZP -. "touring circuit" .- QC
     ROS -. "speed" .- ARCH
+    THR -- "Gary Holt, Exodus (2011–)" --> SLAY
+    SLAY -. "extremity" .-> POS
+    SLAY -. "extremity" .-> DEATH
+    DEF -- "Chino Moreno" --> PALMS
+    ARCH -. "British Columbia" .- SB
 ```
 
 ## Gene Hoglan (drums)

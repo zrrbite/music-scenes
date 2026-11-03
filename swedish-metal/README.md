@@ -9,7 +9,7 @@ Humanity's Last Breath.
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
-- [Playlist](playlist.md): tracks in listening order, with Spotify/YouTube links
+- [Playlist](playlist.md): tracks in listening order, with Spotify / YouTube / YouTube Music links
 - [Connections](connections.md): family-tree diagram and shared members
 - [Sources](sources.md): references and accuracy notes
 - Band pages:
@@ -26,7 +26,11 @@ Humanity's Last Breath.
 | [Meshuggah](bands/meshuggah.md) | Umeå | 1987 | Extreme progressive metal | *obZen* (2008) |
 | [Vildhjarta](bands/vildhjarta.md) | Hudiksvall | 2005 | "Thall" / djent | *Måsstaden* (2011) |
 | [Humanity's Last Breath](bands/humanitys-last-breath.md) | Helsingborg | 2009 | Thall / blackened deathcore | *Välde* (2021) |
-| [Mirar](bands/mirar.md) | France / Norway (not Swedish) | 2020s | Instrumental thall / tech-metal with electronics | *Ascension* (2025) |
+| [Ghost](bands/ghost.md) | Linköping | 2006 | Theatrical occult rock / metal | *Meliora* (2015) |
+| [Arch Enemy](bands/arch-enemy.md) | Halmstad | 1995 | Melodic death metal | *Wages of Sin* (2001) |
+| [Amon Amarth](bands/amon-amarth.md) | Tumba (Stockholm) | 1992 | Viking-themed melodic death metal | *Twilight of the Thunder God* (2008) |
+
+The worldwide djent and thall line (Periphery, Animals as Leaders, Sleep Token, Gojira, Mirar…) has its own [Djent & thall](../djent-thall/README.md) section.
 
 ## History
 
@@ -61,7 +65,7 @@ A newer Swedish generation took that idea toward something darker and more atmos
 syncopated sound, and drummer, guitarist and producer **Buster Odeholm** is a link between them
 and **[Humanity's Last Breath](bands/humanitys-last-breath.md)**, who push the style toward
 crushing, blackened deathcore. The same lineage now includes bands across Europe and North America.
-One example is the French–Norwegian duo **[Mirar](bands/mirar.md)**, who fuse thall with electronic
+One example is the French–Norwegian duo **[Mirar](../djent-thall/bands/mirar.md)**, who fuse thall with electronic
 production and Baroque counterpoint and reportedly work with Odeholm on production.
 
 Sweden's doom and retro rock bands (Candlemass, Witchcraft, Graveyard) are covered in the [Doom](../doom/README.md) section.

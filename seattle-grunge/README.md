@@ -7,7 +7,7 @@ bands of the 90s, and how nearly all of them trace back to a handful of shared m
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
-- [Playlist](playlist.md): tracks in listening order, with Spotify/YouTube links
+- [Playlist](playlist.md): tracks in listening order, with Spotify / YouTube / YouTube Music links
 - [Connections](connections.md): the family tree, as a diagram, plus who played with whom
 - [Sources](sources.md): references and accuracy notes
 - Band pages:
@@ -27,6 +27,8 @@ bands of the 90s, and how nearly all of them trace back to a handful of shared m
 | [Pearl Jam](bands/pearl-jam.md) | 1990 | Eddie Vedder, Stone Gossard, Jeff Ament, Mike McCready | *Ten* (1991) |
 | [Mad Season](bands/mad-season.md) | 1994 | Layne Staley, Mike McCready | *Above* (1995) |
 | [Foo Fighters](bands/foo-fighters.md) | 1994 | Dave Grohl, Taylor Hawkins, Pat Smear | *The Colour and the Shape* (1997) |
+| [Queens of the Stone Age](bands/queens-of-the-stone-age.md) | 1996 (Palm Desert) | Josh Homme, Mark Lanegan, Dave Grohl | *Songs for the Deaf* (2002) |
+| [Stone Temple Pilots](bands/stone-temple-pilots.md) | 1989 (San Diego) | Scott Weiland, Dean & Robert DeLeo | *Purple* (1994) |
 
 ## History
 

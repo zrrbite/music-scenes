@@ -27,7 +27,8 @@ flowchart TD
         WC(["Whitechapel"])
         TAIM(["Thy Art Is Murder"])
         IA["Infant Annihilator<br/>2012"]
-        LS(["Lorna Shore"])
+        LS["Lorna Shore<br/>2010, New Jersey"]
+        BMTH["Bring Me the Horizon<br/>2004, Sheffield"]
         EE(["Enterprise Earth"])
     end
     HLB(["Humanity's Last Breath<br/>Sweden"])
@@ -45,6 +46,7 @@ flowchart TD
     BTM -. "speed" .-> IA
     IA -- "Dan Watson (vocals on debut)" --- EE
     WC -. "influence" .-> LS
+    DI -. "deathcore template" .-> BMTH
     LS -. "blackened, atmospheric" .- HLB
 ```
 
