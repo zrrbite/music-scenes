@@ -15,6 +15,7 @@ flowchart TD
     subgraph GORE["Gore & grind (Europe)"]
         CARC(["Carcass<br/>UK"])
         ABOR["Aborted<br/>1995"]
+        CD["Cattle Decapitation<br/>1996, San Diego"]
     end
     subgraph SLAM["Slam"]
         DEV["Devourment<br/>1995"]
@@ -35,6 +36,7 @@ flowchart TD
     IB -. "the slam" .-> DEV
     SUF -. "technicality" .-> ABOR
     CARC -. "gore" .-> ABOR
+    CARC -. "goregrind, inverted" .-> CD
     DEV -. "template" .-> ORG
     SUF -. "breakdowns" .-> DI
     DF -. "groove" .-> DI

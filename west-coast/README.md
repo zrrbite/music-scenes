@@ -23,6 +23,7 @@ North America.
 | [Fallujah](bands/fallujah.md) | San Francisco Bay Area | 2007 | Atmospheric technical death | *The Flesh Prevails* (2014) |
 | [Rings of Saturn](bands/rings-of-saturn.md) | San Francisco Bay Area | 2009 | Technical deathcore ("aliencore") | *Lugal Ki En* (2014) |
 | [Archspire](bands/archspire.md) | Vancouver | 2009 | Hyper-technical death metal | *Bleed the Future* (2021) |
+| [Cattle Decapitation](../brutal-death/bands/cattle-decapitation.md) | San Diego | 1996 | Progressive deathgrind (page under Brutal death) | *Monolith of Inhumanity* (2012) |
 | [Zenith Passage](bands/zenith-passage.md) | Los Angeles area **(verify)** | 2011 | Technical / progressive death | *Solipsist* (2016) |
 
 ## History

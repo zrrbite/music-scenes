@@ -19,11 +19,13 @@ records best heard in full, or where no single track has been picked yet.
 | 7 | Whitechapel | This Is Exile | *This Is Exile* (2008) | [Spotify](https://open.spotify.com/search/Whitechapel%20This%20Is%20Exile) · [YouTube](https://www.youtube.com/results?search_query=Whitechapel%20This%20Is%20Exile) |
 | 8 | Thy Art Is Murder | Reign of Darkness | *Hate* (2012) | [Spotify](https://open.spotify.com/search/Thy%20Art%20Is%20Murder%20Reign%20of%20Darkness) · [YouTube](https://www.youtube.com/results?search_query=Thy%20Art%20Is%20Murder%20Reign%20of%20Darkness) |
 | 9 | Infant Annihilator | Decapitation Fornication **(verify)** | *The Palpable Leprosy of Pollution* (2012) | [Spotify](https://open.spotify.com/search/Infant%20Annihilator%20Decapitation%20Fornication) · [YouTube](https://www.youtube.com/results?search_query=Infant%20Annihilator%20Decapitation%20Fornication) |
-| 10 | Aborted | Retrogore | *Retrogore* (2016) | [Spotify](https://open.spotify.com/search/Aborted%20Retrogore) · [YouTube](https://www.youtube.com/results?search_query=Aborted%20Retrogore) |
-| 11 | Infant Annihilator | Three Bastards **(verify)** | *The Elysian Grandeval Galèriarch* (2016) | [Spotify](https://open.spotify.com/search/Infant%20Annihilator%20Three%20Bastards) · [YouTube](https://www.youtube.com/results?search_query=Infant%20Annihilator%20Three%20Bastards) |
-| 12 | Infant Annihilator | *whole album / any track* | *The Battle of Yaldabaoth* (2019) | [Spotify](https://open.spotify.com/search/Infant%20Annihilator%20The%20Battle%20of%20Yaldabaoth) · [YouTube](https://www.youtube.com/results?search_query=Infant%20Annihilator%20The%20Battle%20of%20Yaldabaoth) |
-| 13 | Lorna Shore | To the Hellfire | *...And I Return to Nothingness (EP)* (2021) | [Spotify](https://open.spotify.com/search/Lorna%20Shore%20To%20the%20Hellfire) · [YouTube](https://www.youtube.com/results?search_query=Lorna%20Shore%20To%20the%20Hellfire) |
-| 14 | Organectomy | *whole album / any track* **(verify)** | *(any release, verify)* | [Spotify](https://open.spotify.com/search/Organectomy%20) · [YouTube](https://www.youtube.com/results?search_query=Organectomy%20) |
+| 10 | Cattle Decapitation | Forced Gender Reassignment | *Monolith of Inhumanity* (2012) | [Spotify](https://open.spotify.com/search/Cattle%20Decapitation%20Forced%20Gender%20Reassignment) · [YouTube](https://www.youtube.com/results?search_query=Cattle%20Decapitation%20Forced%20Gender%20Reassignment) |
+| 11 | Cattle Decapitation | Manufactured Extinct | *The Anthropocene Extinction* (2015) | [Spotify](https://open.spotify.com/search/Cattle%20Decapitation%20Manufactured%20Extinct) · [YouTube](https://www.youtube.com/results?search_query=Cattle%20Decapitation%20Manufactured%20Extinct) |
+| 12 | Aborted | Retrogore | *Retrogore* (2016) | [Spotify](https://open.spotify.com/search/Aborted%20Retrogore) · [YouTube](https://www.youtube.com/results?search_query=Aborted%20Retrogore) |
+| 13 | Infant Annihilator | Three Bastards **(verify)** | *The Elysian Grandeval Galèriarch* (2016) | [Spotify](https://open.spotify.com/search/Infant%20Annihilator%20Three%20Bastards) · [YouTube](https://www.youtube.com/results?search_query=Infant%20Annihilator%20Three%20Bastards) |
+| 14 | Infant Annihilator | *whole album / any track* | *The Battle of Yaldabaoth* (2019) | [Spotify](https://open.spotify.com/search/Infant%20Annihilator%20The%20Battle%20of%20Yaldabaoth) · [YouTube](https://www.youtube.com/results?search_query=Infant%20Annihilator%20The%20Battle%20of%20Yaldabaoth) |
+| 15 | Lorna Shore | To the Hellfire | *...And I Return to Nothingness (EP)* (2021) | [Spotify](https://open.spotify.com/search/Lorna%20Shore%20To%20the%20Hellfire) · [YouTube](https://www.youtube.com/results?search_query=Lorna%20Shore%20To%20the%20Hellfire) |
+| 16 | Organectomy | *whole album / any track* **(verify)** | *(any release, verify)* | [Spotify](https://open.spotify.com/search/Organectomy%20) · [YouTube](https://www.youtube.com/results?search_query=Organectomy%20) |
 
 ## Plain list for importing
 Paste this into an import tool (e.g. TuneMyMusic or Soundiiz) to build a Spotify, Apple Music
@@ -39,6 +41,8 @@ Despised Icon - Furtive Monologue
 Whitechapel - This Is Exile
 Thy Art Is Murder - Reign of Darkness
 Infant Annihilator - Decapitation Fornication
+Cattle Decapitation - Forced Gender Reassignment
+Cattle Decapitation - Manufactured Extinct
 Aborted - Retrogore
 Infant Annihilator - Three Bastards
 Lorna Shore - To the Hellfire

@@ -32,7 +32,8 @@ The README tells the story. This page lays it out by year.
 ## Aftermath (1995–now)
 | Year | Event |
 |------|-------|
-| 1995 | Mad Season's *Above*. Foo Fighters' debut |
+| 1995 | Mad Season's *Above*. [Foo Fighters](bands/foo-fighters.md)' debut, recorded by Grohl alone |
+| 1997 | Foo Fighters' *The Colour and the Shape*. Taylor Hawkins joins |
 | 1996 | *Hype!* documentary. Alice in Chains' *MTV Unplugged*. Screaming Trees' *Dust* |
 | 1997 | Soundgarden breaks up |
 | 1998 | Matt Cameron joins Pearl Jam |
@@ -40,6 +41,7 @@ The README tells the story. This page lays it out by year.
 | 2002 | Layne Staley dies |
 | 2006 | Alice in Chains return with William DuVall |
 | 2010 | Soundgarden reunite |
+| 2011 | Foo Fighters' *Wasting Light* (Butch Vig producing, Krist Novoselic guesting) |
 | 2016 | Temple of the Dog reunion tour |
 | 2017 | Chris Cornell dies |
-| 2022 | Mark Lanegan dies |
+| 2022 | Mark Lanegan dies. Taylor Hawkins dies |

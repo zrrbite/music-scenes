@@ -19,6 +19,7 @@ deathcore and goregrind of today.
 | [Dying Fetus](../east-coast/bands/dying-fetus.md) | Maryland | 1991 | Brutal death / grind with groove | *Destroy the Opposition* (2000) |
 | [Devourment](bands/devourment.md) | Dallas, Texas | 1995 | Slam death metal (the origin) | *Molesting the Decapitated* (1999) |
 | [Aborted](bands/aborted.md) | Waregem, Belgium | 1995 | Brutal death / goregrind | *Goremageddon* (2003) |
+| [Cattle Decapitation](bands/cattle-decapitation.md) | San Diego | 1996 | Goregrind → progressive deathgrind | *Monolith of Inhumanity* (2012) |
 | [Despised Icon](../quebec/bands/despised-icon.md) | Montreal | 2002 | Deathcore pioneers | *The Ills of Modern Man* (2007) |
 | [Infant Annihilator](bands/infant-annihilator.md) | Hull, England | 2012 | Technical deathcore | *The Elysian Grandeval Galèriarch* (2016) |
 | [Organectomy](bands/organectomy.md) | New Zealand **(verify city)** | **(verify)** | Slam / brutal death | **(verify)** |
@@ -42,7 +43,9 @@ Sevared and bands across Europe, Russia, Asia and Oceania, New Zealand's
 ### Gore and grind (Europe)
 Carcass' goregrind (UK, late 80s) inspired a European line of gory, horror-themed brutal death
 metal, led by Belgium's **[Aborted](bands/aborted.md)**: precise, savage, and full of horror-movie
-samples.
+samples. In San Diego, **[Cattle Decapitation](bands/cattle-decapitation.md)** turned
+goregrind's imagery around, with humans as the victims, and grew into ambitious, progressive
+deathgrind about environmental collapse.
 
 ### Deathcore (2000s – now)
 In the 2000s, hardcore kids picked up brutal death metal. Montreal's

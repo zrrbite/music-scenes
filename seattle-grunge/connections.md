@@ -24,6 +24,8 @@ flowchart TD
     FF[Foo Fighters<br/>1994]
     AS[Audioslave<br/>2001]
     SCREAM[Scream<br/>DC hardcore]
+    SDRE[Sunny Day Real Estate<br/>Seattle emo]
+    GERMS[Germs<br/>LA punk]
 
     GR -- "Mark Arm, Steve Turner" --> MH
     MELV -- "Matt Lukin" --> MH
@@ -37,6 +39,9 @@ flowchart TD
     MELV -- "Dale Crover (early drums)" --> NIR
     SCREAM -- "Dave Grohl" --> NIR
     NIR -- "Dave Grohl" --> FF
+    GERMS -- "Pat Smear (touring)" --> NIR
+    NIR -- "Pat Smear" --> FF
+    SDRE -- "Nate Mendel, William Goldsmith" --> FF
     SG -- "Chris Cornell" --> AS
     AIC -- "Layne Staley" --> MS
     PJ -- "Mike McCready" --> MS
@@ -59,7 +64,9 @@ flowchart TD
 | **Layne Staley** (vocals) | Alice in Chains → Mad Season (d. 2002) |
 | **Matt Lukin** (bass) | Melvins → Mudhoney |
 | **Dale Crover** (drums) | Melvins; drummed on Nirvana's first demo |
-| **Dave Grohl** (drums) | Scream → Nirvana → Foo Fighters |
+| **Dave Grohl** (drums) | Scream → Nirvana → [Foo Fighters](bands/foo-fighters.md) (now vocals/guitar) |
+| **Pat Smear** (guitar) | Germs → Nirvana (touring, 1993–94) → Foo Fighters |
+| **Nate Mendel** (bass) | Sunny Day Real Estate → Foo Fighters |
 | **Barrett Martin** (drums) | Skin Yard → Screaming Trees → Mad Season |
 | **Mark Lanegan** (vocals) | Screaming Trees → solo; guest on Mad Season's *Above* (d. 2022) |
 

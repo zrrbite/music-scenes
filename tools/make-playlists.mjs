@@ -46,6 +46,9 @@ const scenes = {
     ["Soundgarden", "Black Hole Sun", "Superunknown", 1994],
     ["Alice in Chains", "Nutshell", "Jar of Flies", 1994],
     ["Mad Season", "River of Deceit", "Above", 1995],
+    ["Foo Fighters", "This Is a Call", "Foo Fighters", 1995],
+    ["Foo Fighters", "Everlong", "The Colour and the Shape", 1997],
+    ["Foo Fighters", "My Hero", "The Colour and the Shape", 1997],
   ]],
   "swedish-metal": ["Swedish Metal", "Stockholm, Gothenburg, the progressive line, then Meshuggah's descendants.", [
     ["Entombed", "Left Hand Path", "Left Hand Path", 1990],
@@ -108,6 +111,8 @@ const scenes = {
     ["Whitechapel", "This Is Exile", "This Is Exile", 2008],
     ["Thy Art Is Murder", "Reign of Darkness", "Hate", 2012],
     ["Infant Annihilator", "Decapitation Fornication", "The Palpable Leprosy of Pollution", 2012, true],
+    ["Cattle Decapitation", "Forced Gender Reassignment", "Monolith of Inhumanity", 2012],
+    ["Cattle Decapitation", "Manufactured Extinct", "The Anthropocene Extinction", 2015],
     ["Aborted", "Retrogore", "Retrogore", 2016],
     ["Infant Annihilator", "Three Bastards", "The Elysian Grandeval Galèriarch", 2016, true],
     ["Infant Annihilator", null, "The Battle of Yaldabaoth", 2019],

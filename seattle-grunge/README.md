@@ -26,6 +26,7 @@ bands of the 90s, and how nearly all of them trace back to a handful of shared m
 | [Temple of the Dog](bands/temple-of-the-dog.md) | 1990 | Chris Cornell + future Pearl Jam | *Temple of the Dog* (1991) |
 | [Pearl Jam](bands/pearl-jam.md) | 1990 | Eddie Vedder, Stone Gossard, Jeff Ament, Mike McCready | *Ten* (1991) |
 | [Mad Season](bands/mad-season.md) | 1994 | Layne Staley, Mike McCready | *Above* (1995) |
+| [Foo Fighters](bands/foo-fighters.md) | 1994 | Dave Grohl, Taylor Hawkins, Pat Smear | *The Colour and the Shape* (1997) |
 
 ## History
 
@@ -78,7 +79,8 @@ Kurt Cobain's death in April 1994 is usually seen as the end of grunge's peak. A
 haunted the scene. Layne Staley (Alice in Chains, **[Mad Season](bands/mad-season.md)**) died
 in 2002, Mike Starr in 2011, Chris Cornell in 2017, and Mark Lanegan of
 **[Screaming Trees](bands/screaming-trees.md)** in 2022. The family tree kept branching all the
-same: Dave Grohl formed Foo Fighters, Cornell fronted Audioslave, Matt Cameron joined Pearl
+same: Dave Grohl formed **[Foo Fighters](bands/foo-fighters.md)**, which became
+the family tree's biggest 21st-century branch, Cornell fronted Audioslave, Matt Cameron joined Pearl
 Jam, and Alice in Chains carried on with William DuVall. Pearl Jam and Mudhoney are both still
 going decades later, and Mudhoney is still on Sub Pop.
 

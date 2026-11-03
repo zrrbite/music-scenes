@@ -15,6 +15,9 @@
 - Aborted – *Global Flatline* (2012), *TerrorVision* (2018)
 - Infant Annihilator – *The Battle of Yaldabaoth* (2019)
 
+## Grind with a message
+- Cattle Decapitation – *Monolith of Inhumanity* (2012), *The Anthropocene Extinction* (2015)
+
 ## Pure slam
 - Devourment – *Molesting the Decapitated* (1999)
 - Organectomy **(fill in once verified)**

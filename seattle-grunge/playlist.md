@@ -29,6 +29,9 @@ records best heard in full, or where no single track has been picked yet.
 | 17 | Soundgarden | Black Hole Sun | *Superunknown* (1994) | [Spotify](https://open.spotify.com/search/Soundgarden%20Black%20Hole%20Sun) · [YouTube](https://www.youtube.com/results?search_query=Soundgarden%20Black%20Hole%20Sun) |
 | 18 | Alice in Chains | Nutshell | *Jar of Flies* (1994) | [Spotify](https://open.spotify.com/search/Alice%20in%20Chains%20Nutshell) · [YouTube](https://www.youtube.com/results?search_query=Alice%20in%20Chains%20Nutshell) |
 | 19 | Mad Season | River of Deceit | *Above* (1995) | [Spotify](https://open.spotify.com/search/Mad%20Season%20River%20of%20Deceit) · [YouTube](https://www.youtube.com/results?search_query=Mad%20Season%20River%20of%20Deceit) |
+| 20 | Foo Fighters | This Is a Call | *Foo Fighters* (1995) | [Spotify](https://open.spotify.com/search/Foo%20Fighters%20This%20Is%20a%20Call) · [YouTube](https://www.youtube.com/results?search_query=Foo%20Fighters%20This%20Is%20a%20Call) |
+| 21 | Foo Fighters | Everlong | *The Colour and the Shape* (1997) | [Spotify](https://open.spotify.com/search/Foo%20Fighters%20Everlong) · [YouTube](https://www.youtube.com/results?search_query=Foo%20Fighters%20Everlong) |
+| 22 | Foo Fighters | My Hero | *The Colour and the Shape* (1997) | [Spotify](https://open.spotify.com/search/Foo%20Fighters%20My%20Hero) · [YouTube](https://www.youtube.com/results?search_query=Foo%20Fighters%20My%20Hero) |
 
 ## Plain list for importing
 Paste this into an import tool (e.g. TuneMyMusic or Soundiiz) to build a Spotify, Apple Music
@@ -54,4 +57,7 @@ Nirvana - Heart-Shaped Box
 Soundgarden - Black Hole Sun
 Alice in Chains - Nutshell
 Mad Season - River of Deceit
+Foo Fighters - This Is a Call
+Foo Fighters - Everlong
+Foo Fighters - My Hero
 ```
