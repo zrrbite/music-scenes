@@ -12,13 +12,16 @@ and where to start listening.
 | [Swedish metal](swedish-metal/README.md) | 1987–now | Stockholm death metal, Gothenburg melodeath, Opeth, and Meshuggah's descendants (Vildhjarta, Humanity's Last Breath…) |
 | [Post-metal](post-metal/README.md) | 1985–now | Neurosis, Isis, Cult of Luna, The Ocean, Amenra, Russian Circles |
 | [Doom & retro heavy rock](doom/README.md) | 1968–now | Black Sabbath, Pentagram, Candlemass, Sleep, Electric Wizard, and the Swedish retro wave (Witchcraft, Graveyard) |
-| [Seattle grunge](seattle-grunge/README.md) | 1984–now | The Green River family tree: Mudhoney, Mother Love Bone, Pearl Jam, Soundgarden, Alice in Chains, Nirvana… |
+| [Seattle grunge](seattle-grunge/README.md) | 1984–now | The Green River family tree: Mudhoney, Mother Love Bone, Pearl Jam, Soundgarden, Alice in Chains, Nirvana, Foo Fighters… |
+| [California punk](california-punk/README.md) | 1976–now | LA hardcore, Epitaph and Fat Wreck skate punk, Gilman Street, and 1994: The Offspring, Bad Religion, NOFX, Green Day, Rancid, Blink-182… |
 | [Dark folk & gothic Americana](gothic-americana/README.md) | 1979–now | David Eugene Edwards (16 Horsepower, Wovenhand), the Denver Sound, The Gun Club and Nick Cave, The Drones, and Lankum |
 
 ## Cross-scene links
 - **Tech-death:** East Coast (Death's progressive turn) → Quebec ↔ West Coast (Beyond Creation, Archspire, Zenith Passage and Revocation share a touring circuit and labels)
 - **Brutality:** East Coast (Suffocation, Dying Fetus) → Brutal death → Quebec deathcore (Despised Icon, Beneath the Massacre)
 - **Sweden:** Swedish metal ↔ Doom (Candlemass, Witchcraft, Graveyard) ↔ Post-metal (Cult of Luna, from Meshuggah's hometown Umeå)
+- **1994:** Seattle grunge ↔ California punk (Nirvana opens the door for *Dookie* and *Smash*; Pat Smear goes Germs → Nirvana → Foo Fighters; SST releases both Black Flag and Soundgarden)
+- **Thall:** Swedish metal (Vildhjarta, Humanity's Last Breath) → Mirar (France/Norway), linked by Buster Odeholm
 - **Heavy and slow:** Seattle grunge (Melvins) → Doom (sludge) → Post-metal (Neurosis) ↔ Dark folk (Wovenhand's heavy turn, Lankum's drones)
 
 ## Conventions

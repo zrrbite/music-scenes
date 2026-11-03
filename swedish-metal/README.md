@@ -26,6 +26,7 @@ Humanity's Last Breath.
 | [Meshuggah](bands/meshuggah.md) | Umeå | 1987 | Extreme progressive metal | *obZen* (2008) |
 | [Vildhjarta](bands/vildhjarta.md) | Hudiksvall | 2005 | "Thall" / djent | *Måsstaden* (2011) |
 | [Humanity's Last Breath](bands/humanitys-last-breath.md) | Helsingborg | 2009 | Thall / blackened deathcore | *Välde* (2021) |
+| [Mirar](bands/mirar.md) | France / Norway (not Swedish) | 2020s | Instrumental thall / tech-metal with electronics | *Ascension* (2025) |
 
 ## History
 
@@ -60,6 +61,8 @@ A newer Swedish generation took that idea toward something darker and more atmos
 syncopated sound, and drummer, guitarist and producer **Buster Odeholm** is a link between them
 and **[Humanity's Last Breath](bands/humanitys-last-breath.md)**, who push the style toward
 crushing, blackened deathcore. The same lineage now includes bands across Europe and North America.
+One example is the French–Norwegian duo **[Mirar](bands/mirar.md)**, who fuse thall with electronic
+production and Baroque counterpoint and reportedly work with Odeholm on production.
 
 Sweden's doom and retro rock bands (Candlemass, Witchcraft, Graveyard) are covered in the [Doom](../doom/README.md) section.
 Umeå's [Cult of Luna](../post-metal/bands/cult-of-luna.md), from the same town as Meshuggah, is covered under [Post-metal](../post-metal/README.md).

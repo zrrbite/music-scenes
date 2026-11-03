@@ -29,6 +29,7 @@ flowchart TD
         MESH["Meshuggah<br/>1987"]
         VH["Vildhjarta<br/>2005"]
         HLB["Humanity's Last Breath<br/>2009"]
+        MIR["Mirar<br/>France / Norway"]
     end
 
     NIH -- "renamed 1989" --> ENT
@@ -46,12 +47,15 @@ flowchart TD
     MESH -. "polyrhythm" .-> VH
     VH -- "Buster Odeholm (verify)" --- HLB
     MESH -. "low-end weight" .-> HLB
+    VH -. "thall" .-> MIR
+    HLB -. "Buster Odeholm, production (verify)" .- MIR
 ```
 
 ## Buster Odeholm
 - [Humanity's Last Breath](bands/humanitys-last-breath.md): founder, guitar, production
 - [Vildhjarta](bands/vildhjarta.md): member and producer **(verify exact role and years)**
 - The main link between the two leading thall bands
+- [Mirar](bands/mirar.md): reportedly involved in mixing/mastering **(verify)**
 
 ## Mikael Stanne
 - [Dark Tranquillity](bands/dark-tranquillity.md): vocals (originally rhythm guitar)

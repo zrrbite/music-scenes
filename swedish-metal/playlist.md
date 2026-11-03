@@ -24,6 +24,9 @@ records best heard in full, or where no single track has been picked yet.
 | 12 | Meshuggah | Bleed | *obZen* (2008) | [Spotify](https://open.spotify.com/search/Meshuggah%20Bleed) · [YouTube](https://www.youtube.com/results?search_query=Meshuggah%20Bleed) |
 | 13 | Vildhjarta | *whole album / any track* | *Måsstaden* (2011) | [Spotify](https://open.spotify.com/search/Vildhjarta%20M%C3%A5sstaden) · [YouTube](https://www.youtube.com/results?search_query=Vildhjarta%20M%C3%A5sstaden) |
 | 14 | Humanity's Last Breath | *whole album / any track* | *Välde* (2021) | [Spotify](https://open.spotify.com/search/Humanity's%20Last%20Breath%20V%C3%A4lde) · [YouTube](https://www.youtube.com/results?search_query=Humanity's%20Last%20Breath%20V%C3%A4lde) |
+| 15 | Mirar | Rose Bonbon | *Mare (EP)* (2024) | [Spotify](https://open.spotify.com/search/Mirar%20Rose%20Bonbon) · [YouTube](https://www.youtube.com/results?search_query=Mirar%20Rose%20Bonbon) |
+| 16 | Mirar | Cauchemar | *Mare (EP)* (2024) | [Spotify](https://open.spotify.com/search/Mirar%20Cauchemar) · [YouTube](https://www.youtube.com/results?search_query=Mirar%20Cauchemar) |
+| 17 | Mirar | *whole album / any track* | *Ascension* (2025) | [Spotify](https://open.spotify.com/search/Mirar%20Ascension) · [YouTube](https://www.youtube.com/results?search_query=Mirar%20Ascension) |
 
 ## Plain list for importing
 Paste this into an import tool (e.g. TuneMyMusic or Soundiiz) to build a Spotify, Apple Music
@@ -42,4 +45,6 @@ Opeth - Windowpane
 Katatonia - My Twin
 Meshuggah - Future Breed Machine
 Meshuggah - Bleed
+Mirar - Rose Bonbon
+Mirar - Cauchemar
 ```
