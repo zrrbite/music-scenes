@@ -9,6 +9,7 @@ Humanity's Last Breath.
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
+- [Playlist](playlist.md): tracks in listening order, with Spotify/YouTube links
 - [Connections](connections.md): family-tree diagram and shared members
 - [Sources](sources.md): references and accuracy notes
 - Band pages:
@@ -61,5 +62,6 @@ and **[Humanity's Last Breath](bands/humanitys-last-breath.md)**, who push the s
 crushing, blackened deathcore. The same lineage now includes bands across Europe and North America.
 
 Sweden's doom and retro rock bands (Candlemass, Witchcraft, Graveyard) are covered in the [Doom](../doom/README.md) section.
+Umeå's [Cult of Luna](../post-metal/bands/cult-of-luna.md), from the same town as Meshuggah, is covered under [Post-metal](../post-metal/README.md).
 
 See the [scene overview](scene-overview.md) for the timeline and the [listening guide](listening-guide.md) for where to start.

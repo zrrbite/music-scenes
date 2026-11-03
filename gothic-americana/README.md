@@ -1,13 +1,15 @@
 [← All scenes](../README.md)
 
-# Gothic Americana & the Denver Sound
+# Dark Folk & Gothic Americana
 
 Dark, Old Testament-haunted folk and country: banjos, bandoneons, murder ballads, revival-tent
 fervor, and the shadow of the American West. The center of these notes is David Eugene Edwards
-(16 Horsepower, Wovenhand) and the Denver scene around him, plus the artists who shaped it.
+(16 Horsepower, Wovenhand) and the Denver scene around him, plus the artists who shaped it,
+the Australian gothic line (The Drones), and the Old World ballad roots (Lankum).
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
+- [Playlist](playlist.md): tracks in listening order, with Spotify/YouTube links
 - [Connections](connections.md): family-tree diagram, shared members and lineage
 - [Sources](sources.md): references and accuracy notes
 - Artist pages:
@@ -22,6 +24,7 @@ fervor, and the shadow of the American West. The center of these notes is David 
 | [Wovenhand](bands/wovenhand.md) | Denver | 2001–now | Gothic folk → heavy, tribal rock | *Consider the Birds* (2004) |
 | [David Eugene Edwards (solo)](bands/david-eugene-edwards.md) | Denver | 2023–now | Solo gothic folk / drone | *Hyacinth* (2023) |
 | [The Drones](bands/the-drones.md) | Perth / Melbourne | 1997–2016 | Australian gothic blues-punk | *Wait Long by the River…* (2005) |
+| [Lankum](bands/lankum.md) | Dublin | 2000–now | Dark, droning Irish traditional folk | *False Lankum* (2023) |
 
 ## History
 
@@ -66,6 +69,13 @@ Enemies Will Float By* (2005) won the first Australian Music Prize. Liddiard and
 continued as Tropical Fuck Storm from 2017.
 
 It's not "Americana", but it's the same family: same roots, a different continent's ghosts.
+
+### The Old World roots
+Many of the ballads at the heart of this music, the murder ballads and "come all ye" tragedies,
+crossed the Atlantic with Irish, Scottish and English immigrants and became Appalachian songs.
+Dublin's **[Lankum](bands/lankum.md)** go back to those sources and play them as slow, droning,
+heavy music. *False Lankum* (2023) was nominated for the Mercury Prize. They're the European
+end of the same family tree, and a natural crossover for doom and post-metal listeners.
 
 ### The wider family
 The wider family includes Johnny Cash's *American Recordings* (1994), Jay Munly, Those Poor

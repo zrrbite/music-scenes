@@ -23,6 +23,11 @@
 4. The Drones – *I See Seaweed* (2013)
 5. Tropical Fuck Storm – *A Laughing Death in Meatspace* (2018)
 
+## Old World roots
+1. Lankum – *The Livelong Day* (2019)
+2. Lankum – *False Lankum* (2023)
+3. Lynched – *Cold Old Fire* (2014)
+
 ## The Denver family
 - Slim Cessna's Auto Club – *Cipher* (2008)
 - 16 Horsepower – *Folklore* (2002), with traditional songs and covers

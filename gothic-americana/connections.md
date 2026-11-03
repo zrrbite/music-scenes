@@ -27,6 +27,11 @@ flowchart TD
         DR["The Drones<br/>1997"]
         TFS(["Tropical Fuck Storm<br/>2017"])
     end
+    subgraph OLD["Old World roots"]
+        BAL(["Irish, Scottish & English ballads"])
+        LYN(["Lynched<br/>2000"])
+        LANK["Lankum<br/>2016"]
+    end
     subgraph HEAVY["Heavier relatives"]
         SH(["Sargent House<br/>label"])
         CW(["Chelsea Wolfe"])
@@ -51,6 +56,10 @@ flowchart TD
     DEE -. "Hyacinth" .-> SH
     SH -.- CW
     SH -.- ERR
+    BAL -. "crossed the Atlantic" .-> SHP
+    BAL -.-> LYN
+    LYN -- "renamed 2016" --> LANK
+    NC -. "murder ballads" .- LANK
 ```
 
 ## David Eugene Edwards

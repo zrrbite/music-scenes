@@ -7,6 +7,7 @@ bands of the 90s, and how nearly all of them trace back to a handful of shared m
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
+- [Playlist](playlist.md): tracks in listening order, with Spotify/YouTube links
 - [Connections](connections.md): the family tree, as a diagram, plus who played with whom
 - [Sources](sources.md): references and accuracy notes
 - Band pages:

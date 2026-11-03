@@ -7,6 +7,7 @@ Slow, heavy, Sabbath-worshipping music, from 70s originators through 80s cult ba
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
+- [Playlist](playlist.md): tracks in listening order, with Spotify/YouTube links
 - [Connections](connections.md): family-tree diagram, shared members, labels and lineage
 - [Sources](sources.md): references and accuracy notes
 - Band pages:
