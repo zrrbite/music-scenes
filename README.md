@@ -16,8 +16,8 @@ wave, and the modern progressive / tech-death bands coming out of Montreal and e
 | [Gorguts](bands/gorguts.md) | Sherbrooke | Avant-garde / technical death | *Obscura* (1998) |
 | [Cryptopsy](bands/cryptopsy.md) | Montreal | Brutal / technical death | *None So Vile* (1996) |
 | [Kataklysm](bands/kataklysm.md) | Montreal | Death metal ("northern hyperblast") | *Sorcery* (1995) |
-| [Necronomicon](bands/necronomicon.md) | Beloeil | Blackened death | (verify) |
-| [Obliveon](bands/obliveon.md) | Montreal area | Technical thrash / death | *Nemesis* (1993) |
+| [Necronomicon](bands/necronomicon.md) | La Baie (Saguenay) / Montreal | Blackened death | *The Sacred Medicines* (2003) |
+| [Obliveon](bands/obliveon.md) | Longueuil / Montreal | Technical thrash / death | *Nemesis* (1993) |
 | [Martyr](bands/martyr.md) | Trois-Rivières | Technical / progressive death | *Warp Zone* (2000) |
 | [Quo Vadis](bands/quo-vadis.md) | Montreal | Melodic / technical death | *Defiant Imagination* (2004) |
 | [Neuraxis](bands/neuraxis.md) | Montreal | Technical / melodic death | *Trilateral Progression* (2005) |

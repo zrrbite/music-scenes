@@ -4,8 +4,9 @@
 
 Errors and overstatements found while turning the draft into these notes:
 
-- **Necronomicon** was placed in Saguenay–Lac-Saint-Jean. They are from **Beloeil**, near
-  Montreal. Saguenay is home to **Voivod** (Jonquière), so the two were likely mixed up.
+- **Necronomicon:** Gemini placed them in Saguenay–Lac-Saint-Jean, and Metal Archives
+  (La Baie/Montreal) agrees. An earlier version of these notes "corrected" this to Beloeil;
+  that correction was wrong and has been reverted.
 - **Augury** were called "the literal godfathers of the modern Montreal prog-death sound".
   That overstates it. They're an important early-2000s band and share members with Beyond
   Creation, but Gorguts, Martyr and Quo Vadis came first.
