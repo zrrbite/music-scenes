@@ -2,6 +2,7 @@
 // Usage (from the repo root): node tools/make-playlists.mjs .
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { guides } from "./guides-data.mjs";
 
 const root = process.argv[2];
 // [artist, track (null = whole-album pick), album, year, verify?]
@@ -269,34 +270,147 @@ const scenes = {
   ]],
 };
 
-const enc = (s) => encodeURIComponent(s);
+// "Best of" mixes: the most popular tracks per scene, ordered for flow (not chronology).
+// [artist, track]; album/year are looked up from the track lists above when available.
+const mixes = {
+  quebec: [
+    ["Beyond Creation", "Coexistence"], ["Cryptopsy", "Slit Your Guts"], ["Voivod", "Astronomy Domine"],
+    ["Gorguts", "Obscura"], ["Kataklysm", "In Shadows & Dust"], ["Beyond Creation", "Earthborn Evolution"],
+    ["Despised Icon", "Furtive Monologue"], ["Gorguts", "Colored Sands"], ["First Fragment", "Pantheum"],
+    ["Cryptopsy", "Phobophile"], ["Voivod", "Killing Technology"], ["Kataklysm", "As I Slither"],
+    ["Gorguts", "The Erosion of Sanity"],
+  ],
+  "seattle-grunge": [
+    ["Nirvana", "Smells Like Teen Spirit"], ["Pearl Jam", "Alive"], ["Soundgarden", "Black Hole Sun"],
+    ["Alice in Chains", "Would?"], ["Temple of the Dog", "Hunger Strike"], ["Foo Fighters", "Everlong"],
+    ["Stone Temple Pilots", "Plush"], ["Mudhoney", "Touch Me I'm Sick"], ["Queens of the Stone Age", "No One Knows"],
+    ["Nirvana", "Heart-Shaped Box"], ["Alice in Chains", "Man in the Box"], ["Pearl Jam", "Black"],
+    ["Soundgarden", "Rusty Cage"], ["Stone Temple Pilots", "Interstate Love Song"], ["Screaming Trees", "Nearly Lost You"],
+    ["Mother Love Bone", "Chloe Dancer / Crown of Thorns"], ["Mad Season", "River of Deceit"], ["Alice in Chains", "Nutshell"],
+  ],
+  "swedish-metal": [
+    ["Ghost", "Square Hammer"], ["In Flames", "Only for the Weak"], ["Amon Amarth", "Twilight of the Thunder God"],
+    ["Arch Enemy", "Nemesis"], ["At the Gates", "Blinded by Fear"], ["Meshuggah", "Bleed"],
+    ["Opeth", "The Drapery Falls"], ["Dark Tranquillity", "Punish My Heaven"], ["Entombed", "Left Hand Path"],
+    ["Ghost", "Cirice"], ["Katatonia", "My Twin"], ["Arch Enemy", "War Eternal"],
+    ["Entombed", "Wolverine Blues"], ["Opeth", "Windowpane"],
+  ],
+  "djent-thall": [
+    ["Sleep Token", "The Summoning"], ["Spiritbox", "Holy Roller"], ["Gojira", "Stranded"],
+    ["Periphery", "Scarlet"], ["Meshuggah", "Bleed"], ["Animals as Leaders", "Physical Education"],
+    ["Sleep Token", "Alkaline"], ["Gojira", "Flying Whales"], ["Spiritbox", "Circle with Me"],
+    ["Periphery", "Icarus Lives!"], ["Animals as Leaders", "CAFO"], ["Meshuggah", "Future Breed Machine"],
+    ["Mirar", "Rose Bonbon"],
+  ],
+  "california-punk": [
+    ["The Offspring", "Self Esteem"], ["Green Day", "Basket Case"], ["Blink-182", "All the Small Things"],
+    ["Sublime", "Santeria"], ["Rancid", "Ruby Soho"], ["Bad Religion", "Infected"],
+    ["NOFX", "Linoleum"], ["Dead Kennedys", "Holiday in Cambodia"], ["The Offspring", "Come Out and Play"],
+    ["AFI", "Girl's Not Grey"], ["Social Distortion", "Ball and Chain"], ["Pennywise", "Bro Hymn"],
+    ["Green Day", "American Idiot"], ["Descendents", "Suburban Home"], ["Blink-182", "Dammit"],
+    ["Black Flag", "Rise Above"], ["The Offspring", "The Kids Aren't Alright"], ["Sublime", "What I Got"],
+  ],
+  "west-coast": [
+    ["Slayer", "Raining Blood"], ["Deftones", "Change (In the House of Flies)"], ["Archspire", "Drone Corpse Aviator"],
+    ["Possessed", "Death Metal"], ["Strapping Young Lad", "Love?"], ["The Faceless", "Xenochrist"],
+    ["Slayer", "Angel of Death"], ["Fallujah", "The Flesh Prevails"], ["Deftones", "Digital Bath"],
+    ["Dark Angel", "Darkness Descends"], ["Archspire", "Bleed the Future"], ["Strapping Young Lad", "All Hail the New Flesh"],
+    ["Possessed", "The Exorcist"],
+  ],
+  "east-coast": [
+    ["Cannibal Corpse", "Hammer Smashed Face"], ["Death", "Crystal Mountain"], ["Morbid Angel", "God of Emptiness"],
+    ["Obituary", "Slowly We Rot"], ["Suffocation", "Effigy of the Forgotten"], ["Death", "Pull the Plug"],
+    ["Cynic", "Veil of Maya"], ["Revocation", "Deathless"], ["Morbid Angel", "Chapel of Ghouls"],
+    ["Immolation", "Dawn of Possession"], ["Obituary", "Chopped in Half"], ["Death", "Zombie Ritual"],
+    ["Revocation", "The Outer Ones"],
+  ],
+  "brutal-death": [
+    ["Lorna Shore", "To the Hellfire"], ["Thy Art Is Murder", "Reign of Darkness"], ["Whitechapel", "This Is Exile"],
+    ["Suffocation", "Infecting the Crypts"], ["Cattle Decapitation", "Manufactured Extinct"], ["Bring Me the Horizon", "Pray for Plagues"],
+    ["Aborted", "Retrogore"], ["Despised Icon", "Furtive Monologue"], ["Devourment", "Babykiller"],
+    ["Cattle Decapitation", "Forced Gender Reassignment"], ["Aborted", "The Saw and the Carnage Done"], ["Suffocation", "Liege of Inveracity"],
+    ["Bring Me the Horizon", "Shadow Moses"],
+  ],
+  "post-metal": [
+    ["Tool", "Schism"], ["Mastodon", "Blood and Thunder"], ["Deafheaven", "Dream House"],
+    ["Isis", "In Fiction"], ["Neurosis", "Locust Star"], ["Cult of Luna", "I: The Weapon"],
+    ["Mastodon", "Oblivion"], ["Russian Circles", "Harper Lewis"], ["Tool", "Lateralus"],
+    ["The Ocean", "Permian: The Great Dying"], ["Isis", "Weight"], ["Neurosis", "Through Silver in Blood"],
+    ["Isis", "Carry"],
+  ],
+  doom: [
+    ["Black Sabbath", "Black Sabbath"], ["Sleep", "Dragonaut"], ["Type O Negative", "Black No. 1"],
+    ["Graveyard", "Ain't Fit to Live Here"], ["Kyuss", "Green Machine"], ["Electric Wizard", "Funeralopolis"],
+    ["Candlemass", "Solitude"], ["Black Sabbath", "Children of the Grave"], ["Witchcraft", "No Angel or Demon"],
+    ["Pentagram", "Forever My Queen"], ["Type O Negative", "Love You to Death"], ["Saint Vitus", "Born Too Late"],
+    ["Kyuss", "Gardenia"], ["Graveyard", "The Siren"], ["Cathedral", "Hopkins (The Witchfinder General)"],
+    ["Black Sabbath", "Into the Void"],
+  ],
+  "gothic-americana": [
+    ["Nick Cave & the Bad Seeds", "Red Right Hand"], ["Hozier", "Take Me to Church"], ["Tom Waits", "Way Down in the Hole"],
+    ["16 Horsepower", "Black Soul Choir"], ["The Pogues", "A Pair of Brown Eyes"], ["Johnny Cash", "Delia's Gone"],
+    ["The Drones", "Shark Fin Blues"], ["Lankum", "Go Dig My Grave"], ["The Gun Club", "Sex Beat"],
+    ["Nick Cave & the Bad Seeds", "Where the Wild Roses Grow"], ["Tom Waits", "Jockey Full of Bourbon"], ["Chelsea Wolfe", "16 Psyche"],
+    ["Nick Cave & the Bad Seeds", "The Mercy Seat"], ["Emma Ruth Rundle", "Darkhorse"], ["Hozier", "Work Song"],
+    ["The Pogues", "Fairytale of New York"],
+  ],
+};
+
+const enc = (s) => encodeURIComponent(s).replaceAll("(", "%28").replaceAll(")", "%29");
+const linksFor = (q) =>
+  `[Spotify](https://open.spotify.com/search/${enc(q)}) · [YouTube](https://www.youtube.com/results?search_query=${enc(q)}) · [YT Music](https://music.youtube.com/search?q=${enc(q)})`;
+const allTracks = Object.values(scenes).flatMap(([, , tracks]) => tracks);
+const lookup = (a, t) => allTracks.find(([a2, t2]) => a2 === a && t2 === t);
+
 for (const [folder, [title, intro, tracks]] of Object.entries(scenes)) {
+  const mix = mixes[folder] || [];
+  const mixRows = mix.map(([a, t], i) => {
+    const hit = lookup(a, t);
+    if (!hit) throw new Error(`Mix track not in any track list: ${folder}: ${a} - ${t}`);
+    const [, , al, y] = hit;
+    return `| ${i + 1} | ${a} | ${t} | *${al}*${y ? ` (${y})` : ""} | ${linksFor(`${a} ${t}`)} |`;
+  });
   const rows = tracks.map(([a, t, al, y, v], i) => {
     const q = t ? `${a} ${t}` : `${a} ${al.replace(/\s*\(.*\)$/, "")}`;
-    const links = `[Spotify](https://open.spotify.com/search/${enc(q)}) · [YouTube](https://www.youtube.com/results?search_query=${enc(q)}) · [YT Music](https://music.youtube.com/search?q=${enc(q)})`;
     const track = t ? t : "*whole album / any track*";
     const album = `*${al}*${y ? ` (${y})` : ""}`;
-    return `| ${i + 1} | ${a} | ${track}${v ? " **(verify)**" : ""} | ${album} | ${links} |`;
+    return `| ${i + 1} | ${a} | ${track}${v ? " **(verify)**" : ""} | ${album} | ${linksFor(q)} |`;
   });
   const plain = tracks.filter(([, t]) => t).map(([a, t]) => `${a} - ${t}`);
+  const mixPlain = mix.map(([a, t]) => `${a} - ${t}`);
   const md = `[← ${title}](README.md)
 
 # Playlist: ${title}
 
+Two playlists: a short **Best of** mix of the scene's most popular tracks, mixed for
+flow, and the longer **Full journey** in rough chronological order.
+
+Links open a Spotify, YouTube or YouTube Music search for that track. To build a real playlist,
+paste a plain list into an import tool (e.g. TuneMyMusic: choose "Free text" as the source and
+YouTube Music as the destination).
+
+## Best of: the mix
+
+| # | Artist | Track | Album | Listen |
+|---|--------|-------|-------|--------|
+${mixRows.join("\n")}
+
+\`\`\`text
+${mixPlain.join("\n")}
+\`\`\`
+
+## Full journey
+
 ${intro}
 
-Links open a Spotify, YouTube or YouTube Music search for that track. **(verify)** means the track title or
-album hasn't been confirmed; check it in the search results. Rows marked *whole album* are
-records best heard in full, or where no single track has been picked yet.
+**(verify)** means the track title or album hasn't been confirmed; check it in the search results.
+Rows marked *whole album* are records best heard in full, or where no single track has been picked yet.
 
 | # | Artist | Track | Album | Listen |
 |---|--------|-------|-------|--------|
 ${rows.join("\n")}
 
-## Plain list for importing
-Paste this into an import tool (e.g. TuneMyMusic or Soundiiz) to build a YouTube Music, Spotify
-or Apple Music playlist in one go. In TuneMyMusic, choose "Free text" as the source and YouTube
-Music as the destination. Whole-album rows are left out.
+Plain list for importing (whole-album rows left out):
 
 \`\`\`text
 ${plain.join("\n")}
@@ -304,4 +418,56 @@ ${plain.join("\n")}
 `;
   writeFileSync(join(root, folder, "playlist.md"), md);
   console.log(`${folder}: ${tracks.length} entries`);
+}
+
+// ---- Listening guides: albums per section + a collapsible playlist with more songs ----
+for (const [folder, { title, intro, sections }] of Object.entries(guides)) {
+  const parts = sections.map(({ t, note, albums, tracks: secTracks }) => {
+    const albumList = albums
+      .map(([a, al, y], i) => `${i + 1}. ${a} – *${al}*${y ? ` (${y})` : ""}`)
+      .join("\n");
+    const rows = secTracks.map((entry, i) => {
+      let [a, tr, al, y, v] = entry;
+      if (entry.length === 2) {
+        const hit = lookup(a, tr);
+        if (!hit) throw new Error(`Guide track not in any track list (add album): ${folder}: ${a} - ${tr}`);
+        [, , al, y, v] = hit;
+      }
+      const q = tr ? `${a} ${tr}` : `${a} ${al.replace(/\s*\(.*\)$/, "")}`;
+      const track = tr ? tr : "*whole album / any track*";
+      return `| ${i + 1} | ${a} | ${track}${v ? " **(verify)**" : ""} | *${al}*${y ? ` (${y})` : ""} | ${linksFor(q)} |`;
+    });
+    const plain = secTracks.filter(([, tr]) => tr).map(([a, tr]) => `${a} - ${tr}`);
+    return `## ${t}
+${note ? `\n${note}\n` : ""}
+${albumList}
+
+<details>
+<summary><b>▶ Playlist for this section (${secTracks.length} tracks)</b></summary>
+
+| # | Artist | Track | Album | Listen |
+|---|--------|-------|-------|--------|
+${rows.join("\n")}
+
+\`\`\`text
+${plain.join("\n")}
+\`\`\`
+
+</details>`;
+  });
+  const md = `[← ${title}](README.md)
+
+# Listening Guide
+
+${intro}
+
+Each section lists the albums to start with. Open the **▶ Playlist** under it for more songs, with
+Spotify, YouTube and YouTube Music links and a plain list to paste into an import tool
+(e.g. TuneMyMusic: choose "Free text" as the source and YouTube Music as the destination).
+The scene's [playlist page](playlist.md) has the Best of mix and the full chronological journey.
+
+${parts.join("\n\n")}
+`;
+  writeFileSync(join(root, folder, "listening-guide.md"), md);
+  console.log(`${folder}: listening guide, ${sections.length} sections`);
 }

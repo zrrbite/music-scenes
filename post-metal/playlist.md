@@ -2,11 +2,53 @@
 
 # Playlist: Post-Metal
 
+Two playlists: a short **Best of** mix of the scene's most popular tracks, mixed for
+flow, and the longer **Full journey** in rough chronological order.
+
+Links open a Spotify, YouTube or YouTube Music search for that track. To build a real playlist,
+paste a plain list into an import tool (e.g. TuneMyMusic: choose "Free text" as the source and
+YouTube Music as the destination).
+
+## Best of: the mix
+
+| # | Artist | Track | Album | Listen |
+|---|--------|-------|-------|--------|
+| 1 | Tool | Schism | *Lateralus* (2001) | [Spotify](https://open.spotify.com/search/Tool%20Schism) · [YouTube](https://www.youtube.com/results?search_query=Tool%20Schism) · [YT Music](https://music.youtube.com/search?q=Tool%20Schism) |
+| 2 | Mastodon | Blood and Thunder | *Leviathan* (2004) | [Spotify](https://open.spotify.com/search/Mastodon%20Blood%20and%20Thunder) · [YouTube](https://www.youtube.com/results?search_query=Mastodon%20Blood%20and%20Thunder) · [YT Music](https://music.youtube.com/search?q=Mastodon%20Blood%20and%20Thunder) |
+| 3 | Deafheaven | Dream House | *Sunbather* (2013) | [Spotify](https://open.spotify.com/search/Deafheaven%20Dream%20House) · [YouTube](https://www.youtube.com/results?search_query=Deafheaven%20Dream%20House) · [YT Music](https://music.youtube.com/search?q=Deafheaven%20Dream%20House) |
+| 4 | Isis | In Fiction | *Panopticon* (2004) | [Spotify](https://open.spotify.com/search/Isis%20In%20Fiction) · [YouTube](https://www.youtube.com/results?search_query=Isis%20In%20Fiction) · [YT Music](https://music.youtube.com/search?q=Isis%20In%20Fiction) |
+| 5 | Neurosis | Locust Star | *Through Silver in Blood* (1996) | [Spotify](https://open.spotify.com/search/Neurosis%20Locust%20Star) · [YouTube](https://www.youtube.com/results?search_query=Neurosis%20Locust%20Star) · [YT Music](https://music.youtube.com/search?q=Neurosis%20Locust%20Star) |
+| 6 | Cult of Luna | I: The Weapon | *Vertikal* (2013) | [Spotify](https://open.spotify.com/search/Cult%20of%20Luna%20I%3A%20The%20Weapon) · [YouTube](https://www.youtube.com/results?search_query=Cult%20of%20Luna%20I%3A%20The%20Weapon) · [YT Music](https://music.youtube.com/search?q=Cult%20of%20Luna%20I%3A%20The%20Weapon) |
+| 7 | Mastodon | Oblivion | *Crack the Skye* (2009) | [Spotify](https://open.spotify.com/search/Mastodon%20Oblivion) · [YouTube](https://www.youtube.com/results?search_query=Mastodon%20Oblivion) · [YT Music](https://music.youtube.com/search?q=Mastodon%20Oblivion) |
+| 8 | Russian Circles | Harper Lewis | *Station* (2008) | [Spotify](https://open.spotify.com/search/Russian%20Circles%20Harper%20Lewis) · [YouTube](https://www.youtube.com/results?search_query=Russian%20Circles%20Harper%20Lewis) · [YT Music](https://music.youtube.com/search?q=Russian%20Circles%20Harper%20Lewis) |
+| 9 | Tool | Lateralus | *Lateralus* (2001) | [Spotify](https://open.spotify.com/search/Tool%20Lateralus) · [YouTube](https://www.youtube.com/results?search_query=Tool%20Lateralus) · [YT Music](https://music.youtube.com/search?q=Tool%20Lateralus) |
+| 10 | The Ocean | Permian: The Great Dying | *Phanerozoic I: Palaeozoic* (2018) | [Spotify](https://open.spotify.com/search/The%20Ocean%20Permian%3A%20The%20Great%20Dying) · [YouTube](https://www.youtube.com/results?search_query=The%20Ocean%20Permian%3A%20The%20Great%20Dying) · [YT Music](https://music.youtube.com/search?q=The%20Ocean%20Permian%3A%20The%20Great%20Dying) |
+| 11 | Isis | Weight | *Oceanic* (2002) | [Spotify](https://open.spotify.com/search/Isis%20Weight) · [YouTube](https://www.youtube.com/results?search_query=Isis%20Weight) · [YT Music](https://music.youtube.com/search?q=Isis%20Weight) |
+| 12 | Neurosis | Through Silver in Blood | *Through Silver in Blood* (1996) | [Spotify](https://open.spotify.com/search/Neurosis%20Through%20Silver%20in%20Blood) · [YouTube](https://www.youtube.com/results?search_query=Neurosis%20Through%20Silver%20in%20Blood) · [YT Music](https://music.youtube.com/search?q=Neurosis%20Through%20Silver%20in%20Blood) |
+| 13 | Isis | Carry | *Oceanic* (2002) | [Spotify](https://open.spotify.com/search/Isis%20Carry) · [YouTube](https://www.youtube.com/results?search_query=Isis%20Carry) · [YT Music](https://music.youtube.com/search?q=Isis%20Carry) |
+
+```text
+Tool - Schism
+Mastodon - Blood and Thunder
+Deafheaven - Dream House
+Isis - In Fiction
+Neurosis - Locust Star
+Cult of Luna - I: The Weapon
+Mastodon - Oblivion
+Russian Circles - Harper Lewis
+Tool - Lateralus
+The Ocean - Permian: The Great Dying
+Isis - Weight
+Neurosis - Through Silver in Blood
+Isis - Carry
+```
+
+## Full journey
+
 Long songs. Play loud, in order, without shuffle.
 
-Links open a Spotify, YouTube or YouTube Music search for that track. **(verify)** means the track title or
-album hasn't been confirmed; check it in the search results. Rows marked *whole album* are
-records best heard in full, or where no single track has been picked yet.
+**(verify)** means the track title or album hasn't been confirmed; check it in the search results.
+Rows marked *whole album* are records best heard in full, or where no single track has been picked yet.
 
 | # | Artist | Track | Album | Listen |
 |---|--------|-------|-------|--------|
@@ -31,10 +73,7 @@ records best heard in full, or where no single track has been picked yet.
 | 19 | The Ocean | Permian: The Great Dying | *Phanerozoic I: Palaeozoic* (2018) | [Spotify](https://open.spotify.com/search/The%20Ocean%20Permian%3A%20The%20Great%20Dying) · [YouTube](https://www.youtube.com/results?search_query=The%20Ocean%20Permian%3A%20The%20Great%20Dying) · [YT Music](https://music.youtube.com/search?q=The%20Ocean%20Permian%3A%20The%20Great%20Dying) |
 | 20 | Cult of Luna | Cold Burn **(verify)** | *The Long Road North* (2022) | [Spotify](https://open.spotify.com/search/Cult%20of%20Luna%20Cold%20Burn) · [YouTube](https://www.youtube.com/results?search_query=Cult%20of%20Luna%20Cold%20Burn) · [YT Music](https://music.youtube.com/search?q=Cult%20of%20Luna%20Cold%20Burn) |
 
-## Plain list for importing
-Paste this into an import tool (e.g. TuneMyMusic or Soundiiz) to build a YouTube Music, Spotify
-or Apple Music playlist in one go. In TuneMyMusic, choose "Free text" as the source and YouTube
-Music as the destination. Whole-album rows are left out.
+Plain list for importing (whole-album rows left out):
 
 ```text
 Neurosis - Locust Star

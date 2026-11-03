@@ -2,11 +2,63 @@
 
 # Playlist: California Punk
 
+Two playlists: a short **Best of** mix of the scene's most popular tracks, mixed for
+flow, and the longer **Full journey** in rough chronological order.
+
+Links open a Spotify, YouTube or YouTube Music search for that track. To build a real playlist,
+paste a plain list into an import tool (e.g. TuneMyMusic: choose "Free text" as the source and
+YouTube Music as the destination).
+
+## Best of: the mix
+
+| # | Artist | Track | Album | Listen |
+|---|--------|-------|-------|--------|
+| 1 | The Offspring | Self Esteem | *Smash* (1994) | [Spotify](https://open.spotify.com/search/The%20Offspring%20Self%20Esteem) · [YouTube](https://www.youtube.com/results?search_query=The%20Offspring%20Self%20Esteem) · [YT Music](https://music.youtube.com/search?q=The%20Offspring%20Self%20Esteem) |
+| 2 | Green Day | Basket Case | *Dookie* (1994) | [Spotify](https://open.spotify.com/search/Green%20Day%20Basket%20Case) · [YouTube](https://www.youtube.com/results?search_query=Green%20Day%20Basket%20Case) · [YT Music](https://music.youtube.com/search?q=Green%20Day%20Basket%20Case) |
+| 3 | Blink-182 | All the Small Things | *Enema of the State* (1999) | [Spotify](https://open.spotify.com/search/Blink-182%20All%20the%20Small%20Things) · [YouTube](https://www.youtube.com/results?search_query=Blink-182%20All%20the%20Small%20Things) · [YT Music](https://music.youtube.com/search?q=Blink-182%20All%20the%20Small%20Things) |
+| 4 | Sublime | Santeria | *Sublime* (1996) | [Spotify](https://open.spotify.com/search/Sublime%20Santeria) · [YouTube](https://www.youtube.com/results?search_query=Sublime%20Santeria) · [YT Music](https://music.youtube.com/search?q=Sublime%20Santeria) |
+| 5 | Rancid | Ruby Soho | *...And Out Come the Wolves* (1995) | [Spotify](https://open.spotify.com/search/Rancid%20Ruby%20Soho) · [YouTube](https://www.youtube.com/results?search_query=Rancid%20Ruby%20Soho) · [YT Music](https://music.youtube.com/search?q=Rancid%20Ruby%20Soho) |
+| 6 | Bad Religion | Infected | *Stranger Than Fiction* (1994) | [Spotify](https://open.spotify.com/search/Bad%20Religion%20Infected) · [YouTube](https://www.youtube.com/results?search_query=Bad%20Religion%20Infected) · [YT Music](https://music.youtube.com/search?q=Bad%20Religion%20Infected) |
+| 7 | NOFX | Linoleum | *Punk in Drublic* (1994) | [Spotify](https://open.spotify.com/search/NOFX%20Linoleum) · [YouTube](https://www.youtube.com/results?search_query=NOFX%20Linoleum) · [YT Music](https://music.youtube.com/search?q=NOFX%20Linoleum) |
+| 8 | Dead Kennedys | Holiday in Cambodia | *Fresh Fruit for Rotting Vegetables* (1980) | [Spotify](https://open.spotify.com/search/Dead%20Kennedys%20Holiday%20in%20Cambodia) · [YouTube](https://www.youtube.com/results?search_query=Dead%20Kennedys%20Holiday%20in%20Cambodia) · [YT Music](https://music.youtube.com/search?q=Dead%20Kennedys%20Holiday%20in%20Cambodia) |
+| 9 | The Offspring | Come Out and Play | *Smash* (1994) | [Spotify](https://open.spotify.com/search/The%20Offspring%20Come%20Out%20and%20Play) · [YouTube](https://www.youtube.com/results?search_query=The%20Offspring%20Come%20Out%20and%20Play) · [YT Music](https://music.youtube.com/search?q=The%20Offspring%20Come%20Out%20and%20Play) |
+| 10 | AFI | Girl's Not Grey | *Sing the Sorrow* (2003) | [Spotify](https://open.spotify.com/search/AFI%20Girl's%20Not%20Grey) · [YouTube](https://www.youtube.com/results?search_query=AFI%20Girl's%20Not%20Grey) · [YT Music](https://music.youtube.com/search?q=AFI%20Girl's%20Not%20Grey) |
+| 11 | Social Distortion | Ball and Chain | *Social Distortion* (1990) | [Spotify](https://open.spotify.com/search/Social%20Distortion%20Ball%20and%20Chain) · [YouTube](https://www.youtube.com/results?search_query=Social%20Distortion%20Ball%20and%20Chain) · [YT Music](https://music.youtube.com/search?q=Social%20Distortion%20Ball%20and%20Chain) |
+| 12 | Pennywise | Bro Hymn | *Pennywise* (1991) | [Spotify](https://open.spotify.com/search/Pennywise%20Bro%20Hymn) · [YouTube](https://www.youtube.com/results?search_query=Pennywise%20Bro%20Hymn) · [YT Music](https://music.youtube.com/search?q=Pennywise%20Bro%20Hymn) |
+| 13 | Green Day | American Idiot | *American Idiot* (2004) | [Spotify](https://open.spotify.com/search/Green%20Day%20American%20Idiot) · [YouTube](https://www.youtube.com/results?search_query=Green%20Day%20American%20Idiot) · [YT Music](https://music.youtube.com/search?q=Green%20Day%20American%20Idiot) |
+| 14 | Descendents | Suburban Home | *Milo Goes to College* (1982) | [Spotify](https://open.spotify.com/search/Descendents%20Suburban%20Home) · [YouTube](https://www.youtube.com/results?search_query=Descendents%20Suburban%20Home) · [YT Music](https://music.youtube.com/search?q=Descendents%20Suburban%20Home) |
+| 15 | Blink-182 | Dammit | *Dude Ranch* (1997) | [Spotify](https://open.spotify.com/search/Blink-182%20Dammit) · [YouTube](https://www.youtube.com/results?search_query=Blink-182%20Dammit) · [YT Music](https://music.youtube.com/search?q=Blink-182%20Dammit) |
+| 16 | Black Flag | Rise Above | *Damaged* (1981) | [Spotify](https://open.spotify.com/search/Black%20Flag%20Rise%20Above) · [YouTube](https://www.youtube.com/results?search_query=Black%20Flag%20Rise%20Above) · [YT Music](https://music.youtube.com/search?q=Black%20Flag%20Rise%20Above) |
+| 17 | The Offspring | The Kids Aren't Alright | *Americana* (1998) | [Spotify](https://open.spotify.com/search/The%20Offspring%20The%20Kids%20Aren't%20Alright) · [YouTube](https://www.youtube.com/results?search_query=The%20Offspring%20The%20Kids%20Aren't%20Alright) · [YT Music](https://music.youtube.com/search?q=The%20Offspring%20The%20Kids%20Aren't%20Alright) |
+| 18 | Sublime | What I Got | *Sublime* (1996) | [Spotify](https://open.spotify.com/search/Sublime%20What%20I%20Got) · [YouTube](https://www.youtube.com/results?search_query=Sublime%20What%20I%20Got) · [YT Music](https://music.youtube.com/search?q=Sublime%20What%20I%20Got) |
+
+```text
+The Offspring - Self Esteem
+Green Day - Basket Case
+Blink-182 - All the Small Things
+Sublime - Santeria
+Rancid - Ruby Soho
+Bad Religion - Infected
+NOFX - Linoleum
+Dead Kennedys - Holiday in Cambodia
+The Offspring - Come Out and Play
+AFI - Girl's Not Grey
+Social Distortion - Ball and Chain
+Pennywise - Bro Hymn
+Green Day - American Idiot
+Descendents - Suburban Home
+Blink-182 - Dammit
+Black Flag - Rise Above
+The Offspring - The Kids Aren't Alright
+Sublime - What I Got
+```
+
+## Full journey
+
 LA hardcore, skate punk, Gilman Street, 1994, and pop-punk.
 
-Links open a Spotify, YouTube or YouTube Music search for that track. **(verify)** means the track title or
-album hasn't been confirmed; check it in the search results. Rows marked *whole album* are
-records best heard in full, or where no single track has been picked yet.
+**(verify)** means the track title or album hasn't been confirmed; check it in the search results.
+Rows marked *whole album* are records best heard in full, or where no single track has been picked yet.
 
 | # | Artist | Track | Album | Listen |
 |---|--------|-------|-------|--------|
@@ -36,7 +88,7 @@ records best heard in full, or where no single track has been picked yet.
 | 24 | Descendents | I'm the One | *Everything Sucks* (1996) | [Spotify](https://open.spotify.com/search/Descendents%20I'm%20the%20One) · [YouTube](https://www.youtube.com/results?search_query=Descendents%20I'm%20the%20One) · [YT Music](https://music.youtube.com/search?q=Descendents%20I'm%20the%20One) |
 | 25 | Sublime | What I Got | *Sublime* (1996) | [Spotify](https://open.spotify.com/search/Sublime%20What%20I%20Got) · [YouTube](https://www.youtube.com/results?search_query=Sublime%20What%20I%20Got) · [YT Music](https://music.youtube.com/search?q=Sublime%20What%20I%20Got) |
 | 26 | Sublime | Santeria | *Sublime* (1996) | [Spotify](https://open.spotify.com/search/Sublime%20Santeria) · [YouTube](https://www.youtube.com/results?search_query=Sublime%20Santeria) · [YT Music](https://music.youtube.com/search?q=Sublime%20Santeria) |
-| 27 | Green Day | Good Riddance (Time of Your Life) | *Nimrod* (1997) | [Spotify](https://open.spotify.com/search/Green%20Day%20Good%20Riddance%20(Time%20of%20Your%20Life)) · [YouTube](https://www.youtube.com/results?search_query=Green%20Day%20Good%20Riddance%20(Time%20of%20Your%20Life)) · [YT Music](https://music.youtube.com/search?q=Green%20Day%20Good%20Riddance%20(Time%20of%20Your%20Life)) |
+| 27 | Green Day | Good Riddance (Time of Your Life) | *Nimrod* (1997) | [Spotify](https://open.spotify.com/search/Green%20Day%20Good%20Riddance%20%28Time%20of%20Your%20Life%29) · [YouTube](https://www.youtube.com/results?search_query=Green%20Day%20Good%20Riddance%20%28Time%20of%20Your%20Life%29) · [YT Music](https://music.youtube.com/search?q=Green%20Day%20Good%20Riddance%20%28Time%20of%20Your%20Life%29) |
 | 28 | Blink-182 | Dammit | *Dude Ranch* (1997) | [Spotify](https://open.spotify.com/search/Blink-182%20Dammit) · [YouTube](https://www.youtube.com/results?search_query=Blink-182%20Dammit) · [YT Music](https://music.youtube.com/search?q=Blink-182%20Dammit) |
 | 29 | The Offspring | The Kids Aren't Alright | *Americana* (1998) | [Spotify](https://open.spotify.com/search/The%20Offspring%20The%20Kids%20Aren't%20Alright) · [YouTube](https://www.youtube.com/results?search_query=The%20Offspring%20The%20Kids%20Aren't%20Alright) · [YT Music](https://music.youtube.com/search?q=The%20Offspring%20The%20Kids%20Aren't%20Alright) |
 | 30 | Blink-182 | All the Small Things | *Enema of the State* (1999) | [Spotify](https://open.spotify.com/search/Blink-182%20All%20the%20Small%20Things) · [YouTube](https://www.youtube.com/results?search_query=Blink-182%20All%20the%20Small%20Things) · [YT Music](https://music.youtube.com/search?q=Blink-182%20All%20the%20Small%20Things) |
@@ -47,10 +99,7 @@ records best heard in full, or where no single track has been picked yet.
 | 35 | AFI | Miss Murder | *Decemberunderground* (2006) | [Spotify](https://open.spotify.com/search/AFI%20Miss%20Murder) · [YouTube](https://www.youtube.com/results?search_query=AFI%20Miss%20Murder) · [YT Music](https://music.youtube.com/search?q=AFI%20Miss%20Murder) |
 | 36 | The Offspring | You're Gonna Go Far, Kid | *Rise and Fall, Rage and Grace* (2008) | [Spotify](https://open.spotify.com/search/The%20Offspring%20You're%20Gonna%20Go%20Far%2C%20Kid) · [YouTube](https://www.youtube.com/results?search_query=The%20Offspring%20You're%20Gonna%20Go%20Far%2C%20Kid) · [YT Music](https://music.youtube.com/search?q=The%20Offspring%20You're%20Gonna%20Go%20Far%2C%20Kid) |
 
-## Plain list for importing
-Paste this into an import tool (e.g. TuneMyMusic or Soundiiz) to build a YouTube Music, Spotify
-or Apple Music playlist in one go. In TuneMyMusic, choose "Free text" as the source and YouTube
-Music as the destination. Whole-album rows are left out.
+Plain list for importing (whole-album rows left out):
 
 ```text
 Germs - Lexicon Devil

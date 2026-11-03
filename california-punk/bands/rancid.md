@@ -11,7 +11,7 @@ Epitaph. *Let's Go* (1994) caught the punk boom, and major labels fought over th
 turned them all down, reportedly including an offer from Madonna's label, and stayed with
 Epitaph.
 
-*...And Out Come the Wolves* (1995), with "Time Bomb", "Ruby Soho" and "Roots Radical", is their
+*...And Out Come the Wolves* (1995), with "Time Bomb", "Ruby Soho" and "Roots Radicals", is their
 classic. Armstrong started Hellcat Records, an Epitaph sub-label, and later the hip-hop/punk
 project Transplants with Travis Barker.
 

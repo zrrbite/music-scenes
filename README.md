@@ -31,3 +31,6 @@ and where to start listening.
 - Each scene has a `README.md` (history + band index), a scene overview (timeline), a listening
   guide, a playlist, connections (with a Mermaid family tree), sources, and a `bands/` folder.
 - **(verify)** marks a fact that hasn't been checked against a reliable source yet.
+- `playlist.md` (Best of mix + full journey) and `listening-guide.md` (sections with their own
+  playlists) are **generated**. Edit `tools/make-playlists.mjs` (track lists, mixes) or
+  `tools/guides-data.mjs` (guide sections), then run `node tools/make-playlists.mjs .`.
