@@ -2,6 +2,52 @@
 
 # Connections
 
+## Family tree
+Solid lines are shared members. Dotted lines are influence or a shared studio.
+
+```mermaid
+flowchart TD
+    subgraph STH["Stockholm death metal"]
+        SUN(["Sunlight Studio<br/>Tomas Skogsberg"])
+        NIH["Nihilist<br/>1987"]
+        ENT["Entombed<br/>1989"]
+        DIS["Dismember<br/>1988"]
+        HC["The Hellacopters"]
+    end
+    subgraph GBG["Gothenburg melodic death metal"]
+        FRED(["Studio Fredman"])
+        ATG["At the Gates<br/>1990"]
+        DT["Dark Tranquillity<br/>1989"]
+        IF["In Flames<br/>1990"]
+        TH["The Haunted<br/>1996"]
+    end
+    subgraph PROG["Progressive & melancholic"]
+        OP["Opeth<br/>1990"]
+        KAT["Katatonia<br/>1991"]
+    end
+    subgraph RHY["Meshuggah's line"]
+        MESH["Meshuggah<br/>1987"]
+        VH["Vildhjarta<br/>2005"]
+        HLB["Humanity's Last Breath<br/>2009"]
+    end
+
+    NIH -- "renamed 1989" --> ENT
+    SUN -.-> ENT
+    SUN -.-> DIS
+    ENT -- "Nicke Andersson" --> HC
+    FRED -.-> ATG
+    FRED -.-> DT
+    FRED -.-> IF
+    DT -- "Anders Fridén" --> IF
+    IF -- "Mikael Stanne (guest)" --- DT
+    ATG -- "Björler twins" --> TH
+    ATG -. "melodeath blueprint" .-> IF
+    OP -- "Mikael Åkerfeldt" --- KAT
+    MESH -. "polyrhythm" .-> VH
+    VH -- "Buster Odeholm (verify)" --- HLB
+    MESH -. "low-end weight" .-> HLB
+```
+
 ## Buster Odeholm
 - [Humanity's Last Breath](bands/humanitys-last-breath.md): founder, guitar, production
 - [Vildhjarta](bands/vildhjarta.md): member and producer **(verify exact role and years)**
@@ -28,12 +74,3 @@
 - [In Flames](bands/in-flames.md): founder
 - Dimension Zero, HammerFall (early)
 
-```mermaid
-flowchart LR
-    DT[Dark Tranquillity] -- "Mikael Stanne (guest vocals)" --> IF[In Flames]
-    OP[Opeth] -- "Mikael Åkerfeldt (vocals)" --> KAT[Katatonia]
-    ATG[At the Gates] -- "Björler twins" --> TH[The Haunted]
-    ENT[Entombed] -- "Nicke Andersson" --> HC[The Hellacopters]
-    MESH[Meshuggah] -. "influence" .-> VH[Vildhjarta]
-    VH -- "Buster Odeholm" --- HLB[Humanity's Last Breath]
-```

@@ -9,12 +9,19 @@
 4. Wovenhand – *Consider the Birds* (2004)
 5. Wovenhand – *Mosaic* (2006)
 6. Wovenhand – *Refractory Obdurate* (2014): the heavy turn
-7. David Eugene Edwards – *Hyacinth* (2023)
+7. [David Eugene Edwards](bands/david-eugene-edwards.md) – *Hyacinth* (2023)
 
 ## The roots
 - The Gun Club – *Fire of Love* (1981)
 - Nick Cave & the Bad Seeds – *Let Love In* (1994), *Murder Ballads* (1996)
 - Johnny Cash – *American Recordings* (1994)
+
+## Australian gothic
+1. The Birthday Party – *Junkyard* (1982)
+2. The Drones – *Wait Long by the River and the Bodies of Your Enemies Will Float By* (2005)
+3. The Drones – *Havilah* (2008)
+4. The Drones – *I See Seaweed* (2013)
+5. Tropical Fuck Storm – *A Laughing Death in Meatspace* (2018)
 
 ## The Denver family
 - Slim Cessna's Auto Club – *Cipher* (2008)

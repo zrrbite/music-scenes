@@ -2,6 +2,53 @@
 
 # Connections
 
+## Family tree
+Solid lines are shared members. Dotted lines are influence or a label. Rounded boxes are
+labels or bands outside the main list.
+
+```mermaid
+flowchart TD
+    BS["Black Sabbath<br/>1968"]
+    subgraph CULT["Traditional & epic doom (70s–80s)"]
+        PEN["Pentagram<br/>1971"]
+        OBS(["The Obsessed"])
+        SV["Saint Vitus<br/>1979"]
+        CAN["Candlemass<br/>1984"]
+    end
+    subgraph NINE["90s branches"]
+        ND(["Napalm Death"])
+        CAT["Cathedral<br/>1989"]
+        RA(["Rise Above Records<br/>1988"])
+        SLP["Sleep<br/>1990"]
+        EW["Electric Wizard<br/>1993"]
+        OM(["Om"])
+        HOF(["High on Fire"])
+    end
+    subgraph SWE["Swedish retro wave (2000s–)"]
+        NOR(["Norrsken"])
+        WC["Witchcraft<br/>2000"]
+        GY["Graveyard<br/>2006"]
+    end
+
+    BS -.-> PEN
+    BS -.-> SV
+    BS -.-> CAN
+    BS -.-> SLP
+    BS -.-> EW
+    OBS -- "Wino" --> SV
+    ND -- "Lee Dorrian" --> CAT
+    CAT -- "Lee Dorrian" --> RA
+    RA -.-> EW
+    RA -.-> WC
+    RA -. "reissues" .-> PEN
+    SLP -- "Cisneros, Hakius" --> OM
+    SLP -- "Matt Pike" --> HOF
+    NOR -- "Magnus Pelander" --> WC
+    NOR -- "Joakim Nilsson, Rikard Edlund" --> GY
+    PEN -. "the template" .-> WC
+    WC -. "same circle" .- GY
+```
+
 ## Norrsken → Witchcraft and Graveyard
 Norrsken was a late-90s Swedish retro rock band. When it ended:
 - **Magnus Pelander** formed [Witchcraft](bands/witchcraft.md) (2000)
@@ -23,16 +70,3 @@ Norrsken was a late-90s Swedish retro rock band. When it ended:
 - Al Cisneros and Chris Hakius → **Om**
 - Matt Pike → **High on Fire**
 
-```mermaid
-flowchart LR
-    NOR[Norrsken] -- "Magnus Pelander" --> WC[Witchcraft]
-    NOR -- "Joakim Nilsson, Rikard Edlund" --> GY[Graveyard]
-    ND[Napalm Death] -- "Lee Dorrian" --> CAT[Cathedral]
-    CAT -. "Rise Above Records" .-> WC
-    CAT -. "Rise Above Records" .-> EW[Electric Wizard]
-    PEN[Pentagram] -. "influence" .-> WC
-    OBS[The Obsessed] -- "Wino" --> SV[Saint Vitus]
-    SLP[Sleep] -- "Cisneros, Hakius" --> OM[Om]
-    SLP -- "Matt Pike" --> HOF[High on Fire]
-    BS[Black Sabbath] -. "influence on everyone" .-> PEN
-```

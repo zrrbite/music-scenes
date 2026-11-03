@@ -2,6 +2,7 @@
 
 # Connections: the Seattle Grunge Family Tree
 
+## Family tree
 Arrows show musicians moving from one band to another (or forming one). GitHub renders this
 diagram automatically.
 

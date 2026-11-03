@@ -9,7 +9,7 @@ Humanity's Last Breath.
 
 - [Scene overview](scene-overview.md): year-by-year timeline
 - [Listening guide](listening-guide.md): where to start
-- [Connections](connections.md): shared members between bands
+- [Connections](connections.md): family-tree diagram and shared members
 - [Sources](sources.md): references and accuracy notes
 - Band pages:
 
