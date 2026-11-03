@@ -5,6 +5,17 @@
 - **Key members:** Patrick Loisel (guitar, vocals), Dominic "Forest" Lapointe (fretless bass)
 - **Style:** Progressive / technical death metal
 
+## History
+Augury formed in Montreal in 2002 around guitarist and vocalist Patrick Loisel. Their debut
+*Concealed* (2004) already had their mix of technical death metal, clean vocals and symphonic
+touches. *Fragmentary Evidence* (2009), released on a bigger international label **(verify:
+Nuclear Blast)**, brought them wider attention, with Dominic "Forest" Lapointe's fretless bass
+a highlight.
+
+A long silence followed while members worked on other projects, including Lapointe in Beyond
+Creation. They came back with *Illusive Golden Age* in 2018. Augury is a key link between the
+2000s Montreal scene and the 2010s tech-prog generation.
+
 ## Sound
 Dense technical death metal with progressive arrangements, clean and harsh vocals, symphonic
 touches, and concepts drawn from science and philosophy. Lapointe's fretless bass is front and center.
