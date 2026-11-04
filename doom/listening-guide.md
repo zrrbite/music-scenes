@@ -83,10 +83,12 @@ Electric Wizard - Dopethrone
 1. Kyuss – *Blues for the Red Sun* (1992)
 2. Kyuss – *Welcome to Sky Valley* (1994)
 3. Sleep – *Holy Mountain* (1992)
-4. Queens of the Stone Age – *Songs for the Deaf* (2002)
+4. Queens of the Stone Age – *Rated R* (2000)
+5. Queens of the Stone Age – *Songs for the Deaf* (2002)
+6. Elder – *Lore* (2015)
 
 <details>
-<summary><b>▶ Playlist for this section (7 tracks)</b></summary>
+<summary><b>▶ Playlist for this section (13 tracks)</b></summary>
 
 | # | Artist | Track | Album | Listen |
 |---|--------|-------|-------|--------|
@@ -96,7 +98,13 @@ Electric Wizard - Dopethrone
 | 4 | Kyuss | Gardenia | *Welcome to Sky Valley* (1994) | [Spotify](https://open.spotify.com/search/Kyuss%20Gardenia) · [YouTube](https://www.youtube.com/results?search_query=Kyuss%20Gardenia) · [YT Music](https://music.youtube.com/search?q=Kyuss%20Gardenia) |
 | 5 | Kyuss | Demon Cleaner | *Welcome to Sky Valley* (1994) | [Spotify](https://open.spotify.com/search/Kyuss%20Demon%20Cleaner) · [YouTube](https://www.youtube.com/results?search_query=Kyuss%20Demon%20Cleaner) · [YT Music](https://music.youtube.com/search?q=Kyuss%20Demon%20Cleaner) |
 | 6 | Sleep | Dragonaut | *Holy Mountain* (1992) | [Spotify](https://open.spotify.com/search/Sleep%20Dragonaut) · [YouTube](https://www.youtube.com/results?search_query=Sleep%20Dragonaut) · [YT Music](https://music.youtube.com/search?q=Sleep%20Dragonaut) |
-| 7 | Queens of the Stone Age | No One Knows | *Songs for the Deaf* (2002) | [Spotify](https://open.spotify.com/search/Queens%20of%20the%20Stone%20Age%20No%20One%20Knows) · [YouTube](https://www.youtube.com/results?search_query=Queens%20of%20the%20Stone%20Age%20No%20One%20Knows) · [YT Music](https://music.youtube.com/search?q=Queens%20of%20the%20Stone%20Age%20No%20One%20Knows) |
+| 7 | Queens of the Stone Age | Feel Good Hit of the Summer | *Rated R* (2000) | [Spotify](https://open.spotify.com/search/Queens%20of%20the%20Stone%20Age%20Feel%20Good%20Hit%20of%20the%20Summer) · [YouTube](https://www.youtube.com/results?search_query=Queens%20of%20the%20Stone%20Age%20Feel%20Good%20Hit%20of%20the%20Summer) · [YT Music](https://music.youtube.com/search?q=Queens%20of%20the%20Stone%20Age%20Feel%20Good%20Hit%20of%20the%20Summer) |
+| 8 | Queens of the Stone Age | The Lost Art of Keeping a Secret | *Rated R* (2000) | [Spotify](https://open.spotify.com/search/Queens%20of%20the%20Stone%20Age%20The%20Lost%20Art%20of%20Keeping%20a%20Secret) · [YouTube](https://www.youtube.com/results?search_query=Queens%20of%20the%20Stone%20Age%20The%20Lost%20Art%20of%20Keeping%20a%20Secret) · [YT Music](https://music.youtube.com/search?q=Queens%20of%20the%20Stone%20Age%20The%20Lost%20Art%20of%20Keeping%20a%20Secret) |
+| 9 | Queens of the Stone Age | No One Knows | *Songs for the Deaf* (2002) | [Spotify](https://open.spotify.com/search/Queens%20of%20the%20Stone%20Age%20No%20One%20Knows) · [YouTube](https://www.youtube.com/results?search_query=Queens%20of%20the%20Stone%20Age%20No%20One%20Knows) · [YT Music](https://music.youtube.com/search?q=Queens%20of%20the%20Stone%20Age%20No%20One%20Knows) |
+| 10 | Queens of the Stone Age | Go with the Flow | *Songs for the Deaf* (2002) | [Spotify](https://open.spotify.com/search/Queens%20of%20the%20Stone%20Age%20Go%20with%20the%20Flow) · [YouTube](https://www.youtube.com/results?search_query=Queens%20of%20the%20Stone%20Age%20Go%20with%20the%20Flow) · [YT Music](https://music.youtube.com/search?q=Queens%20of%20the%20Stone%20Age%20Go%20with%20the%20Flow) |
+| 11 | Elder | Compendium | *Lore* (2015) | [Spotify](https://open.spotify.com/search/Elder%20Compendium) · [YouTube](https://www.youtube.com/results?search_query=Elder%20Compendium) · [YT Music](https://music.youtube.com/search?q=Elder%20Compendium) |
+| 12 | Elder | Lore | *Lore* (2015) | [Spotify](https://open.spotify.com/search/Elder%20Lore) · [YouTube](https://www.youtube.com/results?search_query=Elder%20Lore) · [YT Music](https://music.youtube.com/search?q=Elder%20Lore) |
+| 13 | Elder | Sanctuary | *Reflections of a Floating World* (2017) | [Spotify](https://open.spotify.com/search/Elder%20Sanctuary) · [YouTube](https://www.youtube.com/results?search_query=Elder%20Sanctuary) · [YT Music](https://music.youtube.com/search?q=Elder%20Sanctuary) |
 
 ```text
 Black Sabbath - Sweet Leaf
@@ -105,7 +113,13 @@ Kyuss - Thumb
 Kyuss - Gardenia
 Kyuss - Demon Cleaner
 Sleep - Dragonaut
+Queens of the Stone Age - Feel Good Hit of the Summer
+Queens of the Stone Age - The Lost Art of Keeping a Secret
 Queens of the Stone Age - No One Knows
+Queens of the Stone Age - Go with the Flow
+Elder - Compendium
+Elder - Lore
+Elder - Sanctuary
 ```
 
 </details>

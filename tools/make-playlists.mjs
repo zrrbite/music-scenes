@@ -237,6 +237,8 @@ const scenes = {
     ["Witchcraft", null, "The Alchemist", 2007],
     ["Graveyard", "Ain't Fit to Live Here", "Hisingen Blues", 2011],
     ["Graveyard", "The Siren", "Hisingen Blues", 2011],
+    ["Elder", "Compendium", "Lore", 2015],
+    ["Elder", "Sanctuary", "Reflections of a Floating World", 2017],
     ["Sleep", "Dopesmoker", "Dopesmoker", 2003],
   ]],
   "gothic-americana": ["Dark Folk & Gothic Americana", "The roots, Denver, Australia, and the Old World ballads.", [
@@ -343,7 +345,7 @@ const mixes = {
     ["Graveyard", "Ain't Fit to Live Here"], ["Kyuss", "Green Machine"], ["Electric Wizard", "Funeralopolis"],
     ["Candlemass", "Solitude"], ["Black Sabbath", "Children of the Grave"], ["Witchcraft", "No Angel or Demon"],
     ["Pentagram", "Forever My Queen"], ["Type O Negative", "Love You to Death"], ["Saint Vitus", "Born Too Late"],
-    ["Kyuss", "Gardenia"], ["Graveyard", "The Siren"], ["Cathedral", "Hopkins (The Witchfinder General)"],
+    ["Kyuss", "Gardenia"], ["Elder", "Compendium"], ["Graveyard", "The Siren"], ["Cathedral", "Hopkins (The Witchfinder General)"],
     ["Black Sabbath", "Into the Void"],
   ],
   "gothic-americana": [

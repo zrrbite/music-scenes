@@ -24,6 +24,8 @@ Slow, heavy, Sabbath-worshipping music, from 70s originators through 80s cult ba
 | [Witchcraft](bands/witchcraft.md) | Örebro, Sweden | 2000 | Retro doom / occult rock | *Firewood* (2005) |
 | [Graveyard](bands/graveyard.md) | Gothenburg, Sweden | 2006 | Retro heavy blues rock | *Hisingen Blues* (2011) |
 | [Kyuss](bands/kyuss.md) | Palm Desert, California | 1987 | Stoner / desert rock | *Welcome to Sky Valley* (1994) |
+| [Queens of the Stone Age](../seattle-grunge/bands/queens-of-the-stone-age.md) | Palm Desert / LA | 1996 | Desert rock, Kyuss's successor (page under Seattle grunge) | *Songs for the Deaf* (2002) |
+| [Elder](bands/elder.md) | Massachusetts | 2006 | Progressive stoner / psychedelic doom | *Lore* (2015) |
 | [Type O Negative](bands/type-o-negative.md) | Brooklyn, NY | 1989 | Gothic doom | *October Rust* (1996) |
 | [Mastodon](../post-metal/bands/mastodon.md) | Atlanta | 2000 | Sludge → prog (page under Post-metal) | *Leviathan* (2004) |
 | [Ghost](../swedish-metal/bands/ghost.md) | Linköping, Sweden | 2006 | Occult rock, debut on Rise Above (page under Swedish metal) | *Meliora* (2015) |
@@ -52,7 +54,9 @@ genre its name, and started "epic doom".
   underground for the next 30 years.
 - **Stoner doom:** **[Sleep](bands/sleep.md)** in California and **[Electric
   Wizard](bands/electric-wizard.md)** in England made the riff a hazy, druggy ritual. Desert
-  rock (Kyuss) and sludge (Eyehategod, Crowbar) grew in parallel.
+  rock (Kyuss, and Josh Homme's next band Queens of the Stone Age) and sludge (Eyehategod,
+  Crowbar) grew in parallel. In the 2010s, Massachusetts' **[Elder](bands/elder.md)** took the
+  desert sound in a progressive, psychedelic direction.
 
 ### The Swedish retro wave (2000s – now)
 In the 2000s a group of Swedish bands looked back past metal to the late-60s/early-70s

@@ -32,6 +32,7 @@ flowchart TD
     end
     subgraph US2["US: desert, gothic, sludge"]
         KYUSS["Kyuss<br/>1987"]
+        ELDER["Elder<br/>2006"]
         QOTSA(["Queens of the Stone Age<br/>see Seattle grunge"])
         TON["Type O Negative<br/>1989"]
         CARN(["Carnivore"])
@@ -59,6 +60,8 @@ flowchart TD
     RA -. "debut" .-> GHOST
     BS -. "desert haze" .-> KYUSS
     KYUSS -- "Josh Homme" --> QOTSA
+    KYUSS -. "desert fuzz" .-> ELDER
+    SLP -. "stoner doom" .-> ELDER
     BS -. "slow riffs" .-> TON
     CARN -- "Peter Steele" --> TON
     NEU -- "Scott Kelly (guest)" --- MAST

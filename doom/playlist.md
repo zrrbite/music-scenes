@@ -26,9 +26,10 @@ YouTube Music as the destination).
 | 11 | Type O Negative | Love You to Death | *October Rust* (1996) | [Spotify](https://open.spotify.com/search/Type%20O%20Negative%20Love%20You%20to%20Death) · [YouTube](https://www.youtube.com/results?search_query=Type%20O%20Negative%20Love%20You%20to%20Death) · [YT Music](https://music.youtube.com/search?q=Type%20O%20Negative%20Love%20You%20to%20Death) |
 | 12 | Saint Vitus | Born Too Late | *Born Too Late* (1986) | [Spotify](https://open.spotify.com/search/Saint%20Vitus%20Born%20Too%20Late) · [YouTube](https://www.youtube.com/results?search_query=Saint%20Vitus%20Born%20Too%20Late) · [YT Music](https://music.youtube.com/search?q=Saint%20Vitus%20Born%20Too%20Late) |
 | 13 | Kyuss | Gardenia | *Welcome to Sky Valley* (1994) | [Spotify](https://open.spotify.com/search/Kyuss%20Gardenia) · [YouTube](https://www.youtube.com/results?search_query=Kyuss%20Gardenia) · [YT Music](https://music.youtube.com/search?q=Kyuss%20Gardenia) |
-| 14 | Graveyard | The Siren | *Hisingen Blues* (2011) | [Spotify](https://open.spotify.com/search/Graveyard%20The%20Siren) · [YouTube](https://www.youtube.com/results?search_query=Graveyard%20The%20Siren) · [YT Music](https://music.youtube.com/search?q=Graveyard%20The%20Siren) |
-| 15 | Cathedral | Hopkins (The Witchfinder General) | *The Carnival Bizarre* (1995) | [Spotify](https://open.spotify.com/search/Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) · [YouTube](https://www.youtube.com/results?search_query=Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) · [YT Music](https://music.youtube.com/search?q=Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) |
-| 16 | Black Sabbath | Into the Void | *Master of Reality* (1971) | [Spotify](https://open.spotify.com/search/Black%20Sabbath%20Into%20the%20Void) · [YouTube](https://www.youtube.com/results?search_query=Black%20Sabbath%20Into%20the%20Void) · [YT Music](https://music.youtube.com/search?q=Black%20Sabbath%20Into%20the%20Void) |
+| 14 | Elder | Compendium | *Lore* (2015) | [Spotify](https://open.spotify.com/search/Elder%20Compendium) · [YouTube](https://www.youtube.com/results?search_query=Elder%20Compendium) · [YT Music](https://music.youtube.com/search?q=Elder%20Compendium) |
+| 15 | Graveyard | The Siren | *Hisingen Blues* (2011) | [Spotify](https://open.spotify.com/search/Graveyard%20The%20Siren) · [YouTube](https://www.youtube.com/results?search_query=Graveyard%20The%20Siren) · [YT Music](https://music.youtube.com/search?q=Graveyard%20The%20Siren) |
+| 16 | Cathedral | Hopkins (The Witchfinder General) | *The Carnival Bizarre* (1995) | [Spotify](https://open.spotify.com/search/Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) · [YouTube](https://www.youtube.com/results?search_query=Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) · [YT Music](https://music.youtube.com/search?q=Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) |
+| 17 | Black Sabbath | Into the Void | *Master of Reality* (1971) | [Spotify](https://open.spotify.com/search/Black%20Sabbath%20Into%20the%20Void) · [YouTube](https://www.youtube.com/results?search_query=Black%20Sabbath%20Into%20the%20Void) · [YT Music](https://music.youtube.com/search?q=Black%20Sabbath%20Into%20the%20Void) |
 
 ```text
 Black Sabbath - Black Sabbath
@@ -44,6 +45,7 @@ Pentagram - Forever My Queen
 Type O Negative - Love You to Death
 Saint Vitus - Born Too Late
 Kyuss - Gardenia
+Elder - Compendium
 Graveyard - The Siren
 Cathedral - Hopkins (The Witchfinder General)
 Black Sabbath - Into the Void
@@ -77,7 +79,9 @@ Rows marked *whole album* are records best heard in full, or where no single tra
 | 17 | Witchcraft | *whole album / any track* | *The Alchemist* (2007) | [Spotify](https://open.spotify.com/search/Witchcraft%20The%20Alchemist) · [YouTube](https://www.youtube.com/results?search_query=Witchcraft%20The%20Alchemist) · [YT Music](https://music.youtube.com/search?q=Witchcraft%20The%20Alchemist) |
 | 18 | Graveyard | Ain't Fit to Live Here | *Hisingen Blues* (2011) | [Spotify](https://open.spotify.com/search/Graveyard%20Ain't%20Fit%20to%20Live%20Here) · [YouTube](https://www.youtube.com/results?search_query=Graveyard%20Ain't%20Fit%20to%20Live%20Here) · [YT Music](https://music.youtube.com/search?q=Graveyard%20Ain't%20Fit%20to%20Live%20Here) |
 | 19 | Graveyard | The Siren | *Hisingen Blues* (2011) | [Spotify](https://open.spotify.com/search/Graveyard%20The%20Siren) · [YouTube](https://www.youtube.com/results?search_query=Graveyard%20The%20Siren) · [YT Music](https://music.youtube.com/search?q=Graveyard%20The%20Siren) |
-| 20 | Sleep | Dopesmoker | *Dopesmoker* (2003) | [Spotify](https://open.spotify.com/search/Sleep%20Dopesmoker) · [YouTube](https://www.youtube.com/results?search_query=Sleep%20Dopesmoker) · [YT Music](https://music.youtube.com/search?q=Sleep%20Dopesmoker) |
+| 20 | Elder | Compendium | *Lore* (2015) | [Spotify](https://open.spotify.com/search/Elder%20Compendium) · [YouTube](https://www.youtube.com/results?search_query=Elder%20Compendium) · [YT Music](https://music.youtube.com/search?q=Elder%20Compendium) |
+| 21 | Elder | Sanctuary | *Reflections of a Floating World* (2017) | [Spotify](https://open.spotify.com/search/Elder%20Sanctuary) · [YouTube](https://www.youtube.com/results?search_query=Elder%20Sanctuary) · [YT Music](https://music.youtube.com/search?q=Elder%20Sanctuary) |
+| 22 | Sleep | Dopesmoker | *Dopesmoker* (2003) | [Spotify](https://open.spotify.com/search/Sleep%20Dopesmoker) · [YouTube](https://www.youtube.com/results?search_query=Sleep%20Dopesmoker) · [YT Music](https://music.youtube.com/search?q=Sleep%20Dopesmoker) |
 
 Plain list for importing (whole-album rows left out):
 
@@ -100,5 +104,7 @@ Electric Wizard - Funeralopolis
 Witchcraft - No Angel or Demon
 Graveyard - Ain't Fit to Live Here
 Graveyard - The Siren
+Elder - Compendium
+Elder - Sanctuary
 Sleep - Dopesmoker
 ```
