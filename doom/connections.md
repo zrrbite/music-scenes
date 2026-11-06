@@ -25,6 +25,7 @@ flowchart TD
         HOF(["High on Fire"])
     end
     subgraph SWE["Swedish retro wave (2000s–)"]
+        ROKY(["Roky Erickson /<br/>13th Floor Elevators"])
         NOR["Norrsken<br/>1995"]
         DM(["Dead Man"])
         ALB(["Albatross"])
@@ -59,7 +60,9 @@ flowchart TD
     NOR -- "Joakim Nilsson, Rikard Edlund" --> ALB
     ALB -- "Nilsson, Edlund" --> GY
     NOR -- "Kristoffer Sjödahl" --> DM
+    PEN -. "worship" .-> NOR
     PEN -. "the template" .-> WC
+    ROKY -. "voice, psych" .-> WC
     WC -. "same circle" .- GY
     RA -. "debut" .-> GHOST
     BS -. "desert haze" .-> KYUSS

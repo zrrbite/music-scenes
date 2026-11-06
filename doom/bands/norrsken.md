@@ -11,7 +11,17 @@ Norrsken never released a full-length album, but it is the common root of the tw
 of the Swedish retro wave. They played heavy, fuzzy, 70s-inspired rock at a time when most
 Swedish heavy bands were playing melodic death metal. Their recorded output was a few demos, the
 7" single "Armageddon" / "Little Lady" (1999), and tracks on tribute albums to Blue Cheer and
-Trouble **(verify)**.
+Trouble (including a cover of Trouble's "Psalm 9") **(verify)**.
+
+### Influences: Pentagram above all
+Norrsken worshipped underground 70s heavy rock, especially Pentagram, Black Sabbath, Sir Lord
+Baltimore and Captain Beyond. According to Pelander in later interviews, they were fully
+immersed in the period and dressed in authentic 1970s clothing for their shows **(verify)**.
+They were also part of the 90s underground tribute-album scene that helped revive interest in
+Pentagram and Bobby Liebling.
+
+So Witchcraft wasn't a sudden discovery of Pentagram. Pelander took the doom element that
+Norrsken had been mixing with garage psych and isolated it in its purest form.
 
 When the band ended in 2000 it split into separate lines:
 - **Magnus Pelander** founded [Witchcraft](witchcraft.md) in 2000. It began as a one-off tribute
@@ -47,6 +57,6 @@ Riffipedia (Stoner Rock Wiki), Metal Archives (band ID 110393) and Discogs, via 
 Gemini conversation. Not yet checked directly.
 
 ## If you like this
-[Witchcraft](witchcraft.md), [Graveyard](graveyard.md), [Pentagram](pentagram.md), Blue Cheer, Trouble.
+[Witchcraft](witchcraft.md), [Graveyard](graveyard.md), [Pentagram](pentagram.md), [Black Sabbath](black-sabbath.md), Blue Cheer, Trouble, Sir Lord Baltimore, Captain Beyond.
 
 [← Back to Doom](../README.md)
