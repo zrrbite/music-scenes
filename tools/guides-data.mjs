@@ -200,7 +200,7 @@ export const guides = {
       tracks: [["Type O Negative", "Black No. 1"], ["Type O Negative", "Christian Woman", "Bloody Kisses", 1993], ["Type O Negative", "Love You to Death"], ["Type O Negative", "My Girlfriend's Girlfriend", "October Rust", 1996]] },
     { t: "Warm, retro and occult",
       albums: [["Witchcraft", "Witchcraft", 2004], ["Witchcraft", "The Alchemist", 2007], ["Graveyard", "Lights Out", 2012], ["Ghost", "Opus Eponymous", 2010], ["Ghost", "Meliora", 2015]],
-      tracks: [["Witchcraft", "No Angel or Demon"], ["Witchcraft", null, "The Alchemist", 2007], ["Graveyard", "Slow Motion Countdown", "Lights Out", 2012], ["Ghost", "Ritual", "Opus Eponymous", 2010], ["Ghost", "Cirice"], ["Ghost", "Square Hammer"], ["Cathedral", "Hopkins (The Witchfinder General)"]] },
+      tracks: [["Norrsken", "Armageddon"], ["Witchcraft", "No Angel or Demon"], ["Witchcraft", null, "The Alchemist", 2007], ["Graveyard", "Slow Motion Countdown", "Lights Out", 2012], ["Ghost", "Ritual", "Opus Eponymous", 2010], ["Ghost", "Cirice"], ["Ghost", "Square Hammer"], ["Cathedral", "Hopkins (The Witchfinder General)"]] },
     { t: "Slowest and heaviest",
       albums: [["Sleep", "Dopesmoker", 2003], ["Electric Wizard", "Dopethrone", 2000], ["Cathedral", "Forest of Equilibrium", 1991]],
       tracks: [["Black Sabbath", "Into the Void"], ["Electric Wizard", "Funeralopolis"], ["Cathedral", null, "Forest of Equilibrium", 1991], ["Sleep", "Dopesmoker"]] },

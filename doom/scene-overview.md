@@ -18,6 +18,8 @@
 | 1992 | Sleep's *Holy Mountain* |
 | 1993 | [Electric Wizard](bands/electric-wizard.md) forms in Dorset |
 | late 90s | Sleep records the hour-long "Dopesmoker"; the label refuses it and the band splits |
+| 1995 | [Norrsken](bands/norrsken.md) forms in Örebro (first as Winterorb) |
+| 1999 | Norrsken's 7" "Armageddon" / "Little Lady" |
 | 2000 | Electric Wizard's *Dopethrone*. [Witchcraft](bands/witchcraft.md) forms after Norrsken ends |
 | 2004 | Witchcraft's debut on Rise Above |
 | 2006 | [Graveyard](bands/graveyard.md) forms in Gothenburg |

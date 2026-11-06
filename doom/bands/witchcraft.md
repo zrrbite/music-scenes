@@ -6,7 +6,7 @@
 - **Style:** Retro doom / occult heavy rock
 
 ## History
-After his band Norrsken ended, Magnus Pelander started Witchcraft partly as a tribute to his
+After his band [Norrsken](norrsken.md) ended, Magnus Pelander started Witchcraft partly as a tribute to his
 heroes, Pentagram and Roky Erickson. The early records were recorded with deliberately vintage
 gear and production, aiming for an authentic 1970s sound.
 

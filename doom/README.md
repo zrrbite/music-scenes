@@ -21,6 +21,7 @@ Slow, heavy, Sabbath-worshipping music, from 70s originators through 80s cult ba
 | [Cathedral](bands/cathedral.md) | Coventry, UK | 1989 | Doom → stoner / 70s rock | *Forest of Equilibrium* (1991) |
 | [Sleep](bands/sleep.md) | San Jose, California | 1990 | Stoner doom | *Holy Mountain* (1992) |
 | [Electric Wizard](bands/electric-wizard.md) | Dorset, UK | 1993 | Stoner / sludge doom | *Dopethrone* (2000) |
+| [Norrsken](bands/norrsken.md) | Örebro, Sweden | 1995 | 70s-style heavy psych; the root of Witchcraft and Graveyard | Demos, "Armageddon" (1999) |
 | [Witchcraft](bands/witchcraft.md) | Örebro, Sweden | 2000 | Retro doom / occult rock | *Firewood* (2005) |
 | [Graveyard](bands/graveyard.md) | Gothenburg, Sweden | 2006 | Retro heavy blues rock | *Hisingen Blues* (2011) |
 | [Kyuss](bands/kyuss.md) | Palm Desert, California | 1987 | Stoner / desert rock | *Welcome to Sky Valley* (1994) |
@@ -61,9 +62,10 @@ genre its name, and started "epic doom".
 ### The Swedish retro wave (2000s – now)
 In the 2000s a group of Swedish bands looked back past metal to the late-60s/early-70s
 sound itself: warm analog production, bluesy riffs, and Pentagram and Sabbath worship.
-Norrsken, a short-lived band from Örebro, split into two lines. Magnus Pelander formed
-**[Witchcraft](bands/witchcraft.md)** (first signed to Rise Above), and Joakim Nilsson and
-Rikard Edlund later formed **[Graveyard](bands/graveyard.md)** in Gothenburg. Blues Pills,
+**[Norrsken](bands/norrsken.md)** (Örebro, 1995–2000) never made an album but was the prototype:
+when it ended, Magnus Pelander formed **[Witchcraft](bands/witchcraft.md)** (first signed to
+Rise Above), and Joakim Nilsson and Rikard Edlund later formed **[Graveyard](bands/graveyard.md)**
+in Gothenburg. Blues Pills,
 Ghost and many others followed in the same retro/occult rock revival.
 
 Related: [Swedish metal](../swedish-metal/README.md), [Seattle grunge](../seattle-grunge/README.md) (Melvins → sludge).

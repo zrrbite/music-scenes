@@ -233,6 +233,7 @@ const scenes = {
     ["Type O Negative", "Love You to Death", "October Rust", 1996],
     ["Cathedral", "Hopkins (The Witchfinder General)", "The Carnival Bizarre", 1995],
     ["Electric Wizard", "Funeralopolis", "Dopethrone", 2000],
+    ["Norrsken", "Armageddon", "single", 1999, true],
     ["Witchcraft", "No Angel or Demon", "Witchcraft", 2004],
     ["Witchcraft", null, "The Alchemist", 2007],
     ["Graveyard", "Ain't Fit to Live Here", "Hisingen Blues", 2011],

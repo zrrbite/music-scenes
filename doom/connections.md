@@ -25,7 +25,9 @@ flowchart TD
         HOF(["High on Fire"])
     end
     subgraph SWE["Swedish retro wave (2000s–)"]
-        NOR(["Norrsken"])
+        NOR["Norrsken<br/>1995"]
+        DM(["Dead Man"])
+        ALB(["Albatross"])
         WC["Witchcraft<br/>2000"]
         GY["Graveyard<br/>2006"]
         GHOST(["Ghost<br/>see Swedish metal"])
@@ -54,7 +56,9 @@ flowchart TD
     SLP -- "Cisneros, Hakius" --> OM
     SLP -- "Matt Pike" --> HOF
     NOR -- "Magnus Pelander" --> WC
-    NOR -- "Joakim Nilsson, Rikard Edlund" --> GY
+    NOR -- "Joakim Nilsson, Rikard Edlund" --> ALB
+    ALB -- "Nilsson, Edlund" --> GY
+    NOR -- "Kristoffer Sjödahl" --> DM
     PEN -. "the template" .-> WC
     WC -. "same circle" .- GY
     RA -. "debut" .-> GHOST
@@ -69,10 +73,12 @@ flowchart TD
 ```
 
 ## Norrsken → Witchcraft and Graveyard
-Norrsken was a late-90s Swedish retro rock band. When it ended:
+[Norrsken](bands/norrsken.md) (Örebro, 1995–2000) was a 70s-style heavy psych band. Lineup:
+Joakim Nilsson, Magnus Pelander, Rikard Edlund, Kristoffer Sjödahl. When it ended:
 - **Magnus Pelander** formed [Witchcraft](bands/witchcraft.md) (2000)
-- **Joakim Nilsson** and **Rikard Edlund** later formed [Graveyard](bands/graveyard.md) (2006)
-- Drummer Axel Sjöberg (Graveyard) was also involved **(verify)**
+- **Joakim Nilsson** and **Rikard Edlund** played in Albatross **(verify)**, then co-founded
+  [Graveyard](bands/graveyard.md) (2006) with drummer Axel Sjöberg
+- **Kristoffer Sjödahl** became a founding member of Dead Man **(verify)**
 
 ## Lee Dorrian and Rise Above Records
 - Napalm Death (vocals on *Scum*) → [Cathedral](bands/cathedral.md)

@@ -157,19 +157,21 @@ Type O Negative - My Girlfriend's Girlfriend
 5. Ghost – *Meliora* (2015)
 
 <details>
-<summary><b>▶ Playlist for this section (7 tracks)</b></summary>
+<summary><b>▶ Playlist for this section (8 tracks)</b></summary>
 
 | # | Artist | Track | Album | Listen |
 |---|--------|-------|-------|--------|
-| 1 | Witchcraft | No Angel or Demon | *Witchcraft* (2004) | [Spotify](https://open.spotify.com/search/Witchcraft%20No%20Angel%20or%20Demon) · [YouTube](https://www.youtube.com/results?search_query=Witchcraft%20No%20Angel%20or%20Demon) · [YT Music](https://music.youtube.com/search?q=Witchcraft%20No%20Angel%20or%20Demon) |
-| 2 | Witchcraft | *whole album / any track* | *The Alchemist* (2007) | [Spotify](https://open.spotify.com/search/Witchcraft%20The%20Alchemist) · [YouTube](https://www.youtube.com/results?search_query=Witchcraft%20The%20Alchemist) · [YT Music](https://music.youtube.com/search?q=Witchcraft%20The%20Alchemist) |
-| 3 | Graveyard | Slow Motion Countdown | *Lights Out* (2012) | [Spotify](https://open.spotify.com/search/Graveyard%20Slow%20Motion%20Countdown) · [YouTube](https://www.youtube.com/results?search_query=Graveyard%20Slow%20Motion%20Countdown) · [YT Music](https://music.youtube.com/search?q=Graveyard%20Slow%20Motion%20Countdown) |
-| 4 | Ghost | Ritual | *Opus Eponymous* (2010) | [Spotify](https://open.spotify.com/search/Ghost%20Ritual) · [YouTube](https://www.youtube.com/results?search_query=Ghost%20Ritual) · [YT Music](https://music.youtube.com/search?q=Ghost%20Ritual) |
-| 5 | Ghost | Cirice | *Meliora* (2015) | [Spotify](https://open.spotify.com/search/Ghost%20Cirice) · [YouTube](https://www.youtube.com/results?search_query=Ghost%20Cirice) · [YT Music](https://music.youtube.com/search?q=Ghost%20Cirice) |
-| 6 | Ghost | Square Hammer | *Popestar (EP)* (2016) | [Spotify](https://open.spotify.com/search/Ghost%20Square%20Hammer) · [YouTube](https://www.youtube.com/results?search_query=Ghost%20Square%20Hammer) · [YT Music](https://music.youtube.com/search?q=Ghost%20Square%20Hammer) |
-| 7 | Cathedral | Hopkins (The Witchfinder General) | *The Carnival Bizarre* (1995) | [Spotify](https://open.spotify.com/search/Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) · [YouTube](https://www.youtube.com/results?search_query=Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) · [YT Music](https://music.youtube.com/search?q=Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) |
+| 1 | Norrsken | Armageddon **(verify)** | *single* (1999) | [Spotify](https://open.spotify.com/search/Norrsken%20Armageddon) · [YouTube](https://www.youtube.com/results?search_query=Norrsken%20Armageddon) · [YT Music](https://music.youtube.com/search?q=Norrsken%20Armageddon) |
+| 2 | Witchcraft | No Angel or Demon | *Witchcraft* (2004) | [Spotify](https://open.spotify.com/search/Witchcraft%20No%20Angel%20or%20Demon) · [YouTube](https://www.youtube.com/results?search_query=Witchcraft%20No%20Angel%20or%20Demon) · [YT Music](https://music.youtube.com/search?q=Witchcraft%20No%20Angel%20or%20Demon) |
+| 3 | Witchcraft | *whole album / any track* | *The Alchemist* (2007) | [Spotify](https://open.spotify.com/search/Witchcraft%20The%20Alchemist) · [YouTube](https://www.youtube.com/results?search_query=Witchcraft%20The%20Alchemist) · [YT Music](https://music.youtube.com/search?q=Witchcraft%20The%20Alchemist) |
+| 4 | Graveyard | Slow Motion Countdown | *Lights Out* (2012) | [Spotify](https://open.spotify.com/search/Graveyard%20Slow%20Motion%20Countdown) · [YouTube](https://www.youtube.com/results?search_query=Graveyard%20Slow%20Motion%20Countdown) · [YT Music](https://music.youtube.com/search?q=Graveyard%20Slow%20Motion%20Countdown) |
+| 5 | Ghost | Ritual | *Opus Eponymous* (2010) | [Spotify](https://open.spotify.com/search/Ghost%20Ritual) · [YouTube](https://www.youtube.com/results?search_query=Ghost%20Ritual) · [YT Music](https://music.youtube.com/search?q=Ghost%20Ritual) |
+| 6 | Ghost | Cirice | *Meliora* (2015) | [Spotify](https://open.spotify.com/search/Ghost%20Cirice) · [YouTube](https://www.youtube.com/results?search_query=Ghost%20Cirice) · [YT Music](https://music.youtube.com/search?q=Ghost%20Cirice) |
+| 7 | Ghost | Square Hammer | *Popestar (EP)* (2016) | [Spotify](https://open.spotify.com/search/Ghost%20Square%20Hammer) · [YouTube](https://www.youtube.com/results?search_query=Ghost%20Square%20Hammer) · [YT Music](https://music.youtube.com/search?q=Ghost%20Square%20Hammer) |
+| 8 | Cathedral | Hopkins (The Witchfinder General) | *The Carnival Bizarre* (1995) | [Spotify](https://open.spotify.com/search/Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) · [YouTube](https://www.youtube.com/results?search_query=Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) · [YT Music](https://music.youtube.com/search?q=Cathedral%20Hopkins%20%28The%20Witchfinder%20General%29) |
 
 ```text
+Norrsken - Armageddon
 Witchcraft - No Angel or Demon
 Graveyard - Slow Motion Countdown
 Ghost - Ritual

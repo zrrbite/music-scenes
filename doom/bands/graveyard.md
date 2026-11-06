@@ -6,7 +6,7 @@
 - **Style:** Retro heavy blues rock with doom weight
 
 ## History
-Graveyard came out of the same circle as Witchcraft. Nilsson and Edlund had played in Norrsken
+Graveyard came out of the same circle as Witchcraft. Nilsson and Edlund had played in [Norrsken](norrsken.md)
 with Magnus Pelander, and after some years apart they formed Graveyard. Their sound is
 bluesier and more soulful than Witchcraft's, closer to Led Zeppelin, Free and early Sabbath,
 with Nilsson's raw, ragged voice.
