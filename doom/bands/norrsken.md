@@ -23,6 +23,7 @@ Pentagram and Bobby Liebling.
 So Witchcraft wasn't a sudden discovery of Pentagram. Pelander took the doom element that
 Norrsken had been mixing with garage psych and isolated it in its purest form.
 
+### The split (2000)
 When the band ended in 2000 it split into separate lines:
 - **Magnus Pelander** founded [Witchcraft](witchcraft.md) in 2000. It began as a one-off tribute
   to Pentagram and Roky Erickson (The 13th Floor Elevators) and grew into a full band.
